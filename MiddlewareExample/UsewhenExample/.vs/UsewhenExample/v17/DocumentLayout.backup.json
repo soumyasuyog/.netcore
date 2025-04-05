@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\MiddlewareExample\\UsewhenExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED728E6D-D7F8-4537-997F-4E3799BFDD64}|UsewhenExample\\UsewhenExample.csproj|d:\\dotnet\\middlewareexample\\usewhenexample\\usewhenexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED728E6D-D7F8-4537-997F-4E3799BFDD64}|UsewhenExample\\UsewhenExample.csproj|solutionrelative:usewhenexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ba58fdf3-7af7-4b60-b69b-40ac68d83b75}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\MiddlewareExample\\UsewhenExample\\UsewhenExample\\Program.cs",
+              "RelativeDocumentMoniker": "UsewhenExample\\Program.cs",
+              "ToolTip": "D:\\dotnet\\MiddlewareExample\\UsewhenExample\\UsewhenExample\\Program.cs",
+              "RelativeToolTip": "UsewhenExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T09:53:51.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 282,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{51d8ca1e-4698-404c-a37b-a4a41603557b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

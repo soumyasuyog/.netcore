@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\RoutingExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0672578-574E-4E20-B882-650F24BD7116}|RoutingExample\\RoutingExample.csproj|d:\\dotnet\\routingexample\\routingexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0672578-574E-4E20-B882-650F24BD7116}|RoutingExample\\RoutingExample.csproj|solutionrelative:routingexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ba58fdf3-7af7-4b60-b69b-40ac68d83b75}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\RoutingExample\\RoutingExample\\Program.cs",
+              "RelativeDocumentMoniker": "RoutingExample\\Program.cs",
+              "ToolTip": "D:\\dotnet\\RoutingExample\\RoutingExample\\Program.cs",
+              "RelativeToolTip": "RoutingExample\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:24:23.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 282,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{51d8ca1e-4698-404c-a37b-a4a41603557b}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

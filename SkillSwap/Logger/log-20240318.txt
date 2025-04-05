@@ -1,0 +1,112 @@
+2024-03-18 21:39:33.415 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-18 21:39:33.812 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-18 21:39:33.820 +05:30 [INF] Hosting environment: Development
+2024-03-18 21:39:33.826 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-18 21:39:33.981 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-18 21:39:35.112 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-18 21:39:35.114 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-18 21:39:35.132 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 1160.0236ms
+2024-03-18 21:39:35.142 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 24.4344ms
+2024-03-18 21:39:35.200 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 88.2524ms
+2024-03-18 21:39:35.315 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-18 21:39:35.866 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 550.4498ms
+2024-03-18 22:01:29.495 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-18 22:01:29.716 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-18 22:01:29.721 +05:30 [INF] Hosting environment: Development
+2024-03-18 22:01:29.723 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-18 22:01:29.763 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-18 22:01:30.171 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 415.7666ms
+2024-03-18 22:01:30.693 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-18 22:01:30.824 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 4.3821ms
+2024-03-18 22:01:30.854 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-18 22:01:30.943 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 88.4136ms
+2024-03-18 22:01:31.512 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-18 22:01:31.666 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 154.4261ms
+2024-03-18 22:03:17.159 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:44313/api/UserProfile/profilebyid?userId=9d18c7a5-a3ef-4c41-962d-5bb20f9ed584 - -
+2024-03-18 22:03:18.116 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.ProfileById (SkillSwap)'
+2024-03-18 22:03:18.173 +05:30 [INF] Route matched with {action = "ProfileById", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult ProfileById(System.String) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-18 22:03:26.905 +05:30 [INF] Executed DbCommand (126ms) [Parameters=[@__userId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[UserId] = @__userId_0 AND [t].[IsActive] = CAST(1 AS bit)
+2024-03-18 22:03:27.055 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-18 22:03:27.096 +05:30 [INF] Executed action SkillSwap.Controllers.UserProfileController.ProfileById (SkillSwap) in 8915.3791ms
+2024-03-18 22:03:27.098 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.UserProfileController.ProfileById (SkillSwap)'
+2024-03-18 22:03:27.119 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:44313/api/UserProfile/profilebyid?userId=9d18c7a5-a3ef-4c41-962d-5bb20f9ed584 - - - 200 - application/json;+charset=utf-8 9959.0948ms
+2024-03-18 22:03:57.744 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/profilebyid?userId=9d18c7a5-a3ef-4c41-962d-5bb20f9ed584 - -
+2024-03-18 22:03:57.793 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/profilebyid?userId=9d18c7a5-a3ef-4c41-962d-5bb20f9ed584 - - - 404 - - 49.9563ms
+2024-03-18 22:04:07.061 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/api/profilebyid?userId=9d18c7a5-a3ef-4c41-962d-5bb20f9ed584 - -
+2024-03-18 22:04:07.066 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/api/profilebyid?userId=9d18c7a5-a3ef-4c41-962d-5bb20f9ed584 - - - 404 - - 5.0880ms
+2024-03-18 22:05:14.321 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/api/UserProfile/profilebyid?userId=9d18c7a5-a3ef-4c41-962d-5bb20f9ed584 - -
+2024-03-18 22:05:14.326 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.ProfileById (SkillSwap)'
+2024-03-18 22:05:14.326 +05:30 [INF] Route matched with {action = "ProfileById", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult ProfileById(System.String) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-18 22:05:18.256 +05:30 [INF] Executed DbCommand (5ms) [Parameters=[@__userId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[UserId] = @__userId_0 AND [t].[IsActive] = CAST(1 AS bit)
+2024-03-18 22:05:18.260 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-18 22:05:18.261 +05:30 [INF] Executed action SkillSwap.Controllers.UserProfileController.ProfileById (SkillSwap) in 3934.514ms
+2024-03-18 22:05:18.261 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.UserProfileController.ProfileById (SkillSwap)'
+2024-03-18 22:05:18.262 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/api/UserProfile/profilebyid?userId=9d18c7a5-a3ef-4c41-962d-5bb20f9ed584 - - - 200 - application/json;+charset=utf-8 3940.9249ms
+2024-03-18 22:05:39.945 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/favicon.ico - -
+2024-03-18 22:05:39.956 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/favicon.ico - - - 404 - - 12.0759ms
+2024-03-18 22:05:41.387 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/api/UserProfile/profilebyid?userId=9d18c7a5-a3ef-4c41-962d-5bb20f9ed584 - -
+2024-03-18 22:05:41.389 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.ProfileById (SkillSwap)'
+2024-03-18 22:05:41.389 +05:30 [INF] Route matched with {action = "ProfileById", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult ProfileById(System.String) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-18 22:05:44.974 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[@__userId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[UserId] = @__userId_0 AND [t].[IsActive] = CAST(1 AS bit)
+2024-03-18 22:05:56.620 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-18 22:05:56.622 +05:30 [INF] Executed action SkillSwap.Controllers.UserProfileController.ProfileById (SkillSwap) in 15231.7315ms
+2024-03-18 22:05:56.622 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.UserProfileController.ProfileById (SkillSwap)'
+2024-03-18 22:05:56.627 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/api/UserProfile/profilebyid?userId=9d18c7a5-a3ef-4c41-962d-5bb20f9ed584 - - - 200 - application/json;+charset=utf-8 15239.5548ms
+2024-03-18 22:06:20.843 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/favicon.ico - -
+2024-03-18 22:06:20.847 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/favicon.ico - - - 404 - - 4.7510ms
+2024-03-18 22:06:24.799 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/api/UserProfile/profilebyid?userId=9d18c7a5-a3ef-4c41-962d-5bb20f9ed584 - -
+2024-03-18 22:06:24.799 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.ProfileById (SkillSwap)'
+2024-03-18 22:06:24.800 +05:30 [INF] Route matched with {action = "ProfileById", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult ProfileById(System.String) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-18 22:06:27.286 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[@__userId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[UserId] = @__userId_0 AND [t].[IsActive] = CAST(1 AS bit)
+2024-03-18 22:06:45.300 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-18 22:06:45.301 +05:30 [INF] Executed action SkillSwap.Controllers.UserProfileController.ProfileById (SkillSwap) in 20500.183ms
+2024-03-18 22:06:45.301 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.UserProfileController.ProfileById (SkillSwap)'
+2024-03-18 22:06:45.301 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/api/UserProfile/profilebyid?userId=9d18c7a5-a3ef-4c41-962d-5bb20f9ed584 - - - 200 - application/json;+charset=utf-8 20501.6859ms
+2024-03-18 22:07:34.771 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/api/UserProfile/profilebyid?userId=9d18c7a5-a3ef-4c41-962d-5bb20f9ed584 - -
+2024-03-18 22:07:34.772 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.ProfileById (SkillSwap)'
+2024-03-18 22:07:34.772 +05:30 [INF] Route matched with {action = "ProfileById", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult ProfileById(System.String) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-18 22:08:03.288 +05:30 [INF] Executed DbCommand (7ms) [Parameters=[@__userId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[UserId] = @__userId_0 AND [t].[IsActive] = CAST(1 AS bit)
+2024-03-18 22:08:03.292 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-18 22:08:03.304 +05:30 [INF] Executed action SkillSwap.Controllers.UserProfileController.ProfileById (SkillSwap) in 28530.6818ms
+2024-03-18 22:08:03.304 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.UserProfileController.ProfileById (SkillSwap)'
+2024-03-18 22:08:03.304 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/api/UserProfile/profilebyid?userId=9d18c7a5-a3ef-4c41-962d-5bb20f9ed584 - - - 0 - application/json;+charset=utf-8 28531.8569ms
+2024-03-18 22:24:35.452 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-18 22:24:35.645 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-18 22:24:35.649 +05:30 [INF] Hosting environment: Development
+2024-03-18 22:24:35.650 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-18 22:24:35.673 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-18 22:24:36.022 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 352.5228ms
+2024-03-18 22:24:36.534 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-18 22:24:36.547 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 6.0546ms
+2024-03-18 22:24:36.638 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-18 22:24:36.718 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 80.2213ms
+2024-03-18 22:24:37.304 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-18 22:24:37.423 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 119.2704ms
+2024-03-18 22:25:30.251 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/api/UserProfile/profilebyid?userId=9d18c7a5-a3ef-4c41-962d-5bb20f9ed584 - -
+2024-03-18 22:25:30.423 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.ProfileById (SkillSwap)'
+2024-03-18 22:25:30.471 +05:30 [INF] Route matched with {action = "ProfileById", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult ProfileById(System.String) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-18 22:25:39.563 +05:30 [INF] Executed DbCommand (68ms) [Parameters=[@__userId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[UserId] = @__userId_0 AND [t].[IsActive] = CAST(1 AS bit)
+2024-03-18 22:25:42.519 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-18 22:25:42.548 +05:30 [INF] Executed action SkillSwap.Controllers.UserProfileController.ProfileById (SkillSwap) in 12071.5189ms
+2024-03-18 22:25:42.548 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.UserProfileController.ProfileById (SkillSwap)'
+2024-03-18 22:25:42.561 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/api/UserProfile/profilebyid?userId=9d18c7a5-a3ef-4c41-962d-5bb20f9ed584 - - - 200 - application/json;+charset=utf-8 12309.1557ms
+2024-03-18 22:25:43.548 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/favicon.ico - -
+2024-03-18 22:25:43.551 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/favicon.ico - - - 404 - - 2.6596ms

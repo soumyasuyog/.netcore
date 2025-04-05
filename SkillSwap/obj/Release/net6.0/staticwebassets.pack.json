@@ -1,0 +1,1089 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\.editorconfig",
+      "PackagePath": "staticwebassets\\SkillSwapp\\.editorconfig"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\.gitignore",
+      "PackagePath": "staticwebassets\\SkillSwapp\\.gitignore"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\SkillSwapp\\CHANGELOG.md"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\README.md",
+      "PackagePath": "staticwebassets\\SkillSwapp\\README.md"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\angular.json",
+      "PackagePath": "staticwebassets\\SkillSwapp\\angular.json"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\api.config.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\api.config.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\karma.conf.js",
+      "PackagePath": "staticwebassets\\SkillSwapp\\karma.conf.js"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\package-lock.json",
+      "PackagePath": "staticwebassets\\SkillSwapp\\package-lock.json"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\package.json",
+      "PackagePath": "staticwebassets\\SkillSwapp\\package.json"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\app-routing.module.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\app-routing.module.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\app.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\app.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\app.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\app.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\app.module.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\app.module.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\containers\\default-layout\\_nav.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\containers\\default-layout\\_nav.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\containers\\default-layout\\default-footer\\default-footer.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\containers\\default-layout\\default-footer\\default-footer.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\containers\\default-layout\\default-footer\\default-footer.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\containers\\default-layout\\default-footer\\default-footer.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\containers\\default-layout\\default-footer\\default-footer.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\containers\\default-layout\\default-footer\\default-footer.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\containers\\default-layout\\default-footer\\default-footer.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\containers\\default-layout\\default-footer\\default-footer.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\containers\\default-layout\\default-header\\default-header.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\containers\\default-layout\\default-header\\default-header.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\containers\\default-layout\\default-header\\default-header.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\containers\\default-layout\\default-header\\default-header.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\containers\\default-layout\\default-header\\default-header.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\containers\\default-layout\\default-header\\default-header.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\containers\\default-layout\\default-header\\default-header.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\containers\\default-layout\\default-header\\default-header.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\containers\\default-layout\\default-layout.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\containers\\default-layout\\default-layout.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\containers\\default-layout\\default-layout.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\containers\\default-layout\\default-layout.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\containers\\default-layout\\default-layout.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\containers\\default-layout\\default-layout.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\containers\\default-layout\\index.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\containers\\default-layout\\index.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\containers\\index.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\containers\\index.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\icons\\icon-subset.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\icons\\icon-subset.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\accordion\\accordions.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\accordion\\accordions.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\accordion\\accordions.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\accordion\\accordions.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\accordion\\accordions.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\accordion\\accordions.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\accordion\\accordions.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\accordion\\accordions.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\base-routing.module.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\base-routing.module.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\base.module.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\base.module.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\breadcrumbs\\breadcrumbs.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\breadcrumbs\\breadcrumbs.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\breadcrumbs\\breadcrumbs.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\breadcrumbs\\breadcrumbs.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\breadcrumbs\\breadcrumbs.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\breadcrumbs\\breadcrumbs.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\breadcrumbs\\breadcrumbs.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\breadcrumbs\\breadcrumbs.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\cards\\cards.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\cards\\cards.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\cards\\cards.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\cards\\cards.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\cards\\cards.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\cards\\cards.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\cards\\cards.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\cards\\cards.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\carousels\\carousels.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\carousels\\carousels.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\carousels\\carousels.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\carousels\\carousels.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\carousels\\carousels.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\carousels\\carousels.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\carousels\\carousels.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\carousels\\carousels.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\collapses\\collapses.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\collapses\\collapses.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\collapses\\collapses.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\collapses\\collapses.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\collapses\\collapses.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\collapses\\collapses.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\collapses\\collapses.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\collapses\\collapses.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\list-groups\\list-groups.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\list-groups\\list-groups.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\list-groups\\list-groups.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\list-groups\\list-groups.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\list-groups\\list-groups.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\list-groups\\list-groups.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\list-groups\\list-groups.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\list-groups\\list-groups.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\navs\\navs.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\navs\\navs.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\navs\\navs.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\navs\\navs.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\navs\\navs.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\navs\\navs.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\navs\\navs.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\navs\\navs.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\paginations\\paginations.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\paginations\\paginations.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\paginations\\paginations.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\paginations\\paginations.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\paginations\\paginations.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\paginations\\paginations.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\paginations\\paginations.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\paginations\\paginations.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\placeholders\\placeholders.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\placeholders\\placeholders.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\placeholders\\placeholders.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\placeholders\\placeholders.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\placeholders\\placeholders.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\placeholders\\placeholders.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\placeholders\\placeholders.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\placeholders\\placeholders.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\popovers\\popovers.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\popovers\\popovers.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\popovers\\popovers.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\popovers\\popovers.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\popovers\\popovers.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\popovers\\popovers.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\popovers\\popovers.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\popovers\\popovers.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\progress\\progress.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\progress\\progress.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\progress\\progress.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\progress\\progress.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\progress\\progress.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\progress\\progress.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\progress\\progress.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\progress\\progress.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\spinners\\spinners.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\spinners\\spinners.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\spinners\\spinners.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\spinners\\spinners.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\spinners\\spinners.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\spinners\\spinners.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\spinners\\spinners.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\spinners\\spinners.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\tables\\tables.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\tables\\tables.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\tables\\tables.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\tables\\tables.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\tables\\tables.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\tables\\tables.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\tables\\tables.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\tables\\tables.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\tabs\\tabs.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\tabs\\tabs.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\tabs\\tabs.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\tabs\\tabs.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\tabs\\tabs.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\tabs\\tabs.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\tabs\\tabs.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\tabs\\tabs.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\tooltips\\tooltips.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\tooltips\\tooltips.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\tooltips\\tooltips.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\tooltips\\tooltips.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\tooltips\\tooltips.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\tooltips\\tooltips.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\base\\tooltips\\tooltips.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\base\\tooltips\\tooltips.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\buttons\\button-groups\\button-groups.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\buttons\\button-groups\\button-groups.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\buttons\\button-groups\\button-groups.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\buttons\\button-groups\\button-groups.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\buttons\\button-groups\\button-groups.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\buttons\\button-groups\\button-groups.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\buttons\\button-groups\\button-groups.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\buttons\\button-groups\\button-groups.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\buttons\\buttons-routing.module.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\buttons\\buttons-routing.module.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\buttons\\buttons.module.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\buttons\\buttons.module.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\buttons\\buttons\\buttons.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\buttons\\buttons\\buttons.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\buttons\\buttons\\buttons.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\buttons\\buttons\\buttons.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\buttons\\buttons\\buttons.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\buttons\\buttons\\buttons.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\buttons\\buttons\\buttons.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\buttons\\buttons\\buttons.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\buttons\\dropdowns\\dropdowns.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\buttons\\dropdowns\\dropdowns.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\buttons\\dropdowns\\dropdowns.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\buttons\\dropdowns\\dropdowns.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\buttons\\dropdowns\\dropdowns.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\buttons\\dropdowns\\dropdowns.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\charts\\charts-routing.module.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\charts\\charts-routing.module.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\charts\\charts.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\charts\\charts.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\charts\\charts.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\charts\\charts.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\charts\\charts.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\charts\\charts.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\charts\\charts.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\charts\\charts.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\charts\\charts.module.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\charts\\charts.module.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\dashboard\\dashboard-charts-data.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\dashboard\\dashboard-charts-data.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\dashboard\\dashboard-routing.module.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\dashboard\\dashboard-routing.module.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\dashboard\\dashboard.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\dashboard\\dashboard.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\dashboard\\dashboard.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\dashboard\\dashboard.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\dashboard\\dashboard.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\dashboard\\dashboard.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\dashboard\\dashboard.module.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\dashboard\\dashboard.module.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\checks-radios\\checks-radios.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\checks-radios\\checks-radios.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\checks-radios\\checks-radios.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\checks-radios\\checks-radios.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\checks-radios\\checks-radios.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\checks-radios\\checks-radios.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\checks-radios\\checks-radios.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\checks-radios\\checks-radios.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\floating-labels\\floating-labels.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\floating-labels\\floating-labels.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\floating-labels\\floating-labels.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\floating-labels\\floating-labels.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\floating-labels\\floating-labels.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\floating-labels\\floating-labels.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\floating-labels\\floating-labels.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\floating-labels\\floating-labels.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\form-controls\\form-controls.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\form-controls\\form-controls.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\form-controls\\form-controls.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\form-controls\\form-controls.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\form-controls\\form-controls.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\form-controls\\form-controls.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\form-controls\\form-controls.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\form-controls\\form-controls.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\forms-routing.module.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\forms-routing.module.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\forms.module.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\forms.module.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\input-groups\\input-groups.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\input-groups\\input-groups.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\input-groups\\input-groups.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\input-groups\\input-groups.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\input-groups\\input-groups.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\input-groups\\input-groups.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\input-groups\\input-groups.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\input-groups\\input-groups.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\layout\\layout.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\layout\\layout.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\layout\\layout.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\layout\\layout.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\layout\\layout.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\layout\\layout.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\layout\\layout.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\layout\\layout.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\ranges\\ranges.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\ranges\\ranges.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\ranges\\ranges.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\ranges\\ranges.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\ranges\\ranges.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\ranges\\ranges.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\ranges\\ranges.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\ranges\\ranges.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\select\\select.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\select\\select.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\select\\select.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\select\\select.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\select\\select.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\select\\select.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\select\\select.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\select\\select.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\validation\\validation.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\validation\\validation.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\validation\\validation.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\validation\\validation.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\validation\\validation.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\validation\\validation.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\forms\\validation\\validation.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\forms\\validation\\validation.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\icons\\coreui-icons.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\icons\\coreui-icons.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\icons\\coreui-icons.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\icons\\coreui-icons.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\icons\\icons-routing.module.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\icons\\icons-routing.module.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\icons\\icons.module.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\icons\\icons.module.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\alerts\\alerts.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\alerts\\alerts.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\alerts\\alerts.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\alerts\\alerts.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\alerts\\alerts.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\alerts\\alerts.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\alerts\\alerts.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\alerts\\alerts.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\badges\\badges.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\badges\\badges.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\badges\\badges.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\badges\\badges.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\badges\\badges.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\badges\\badges.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\badges\\badges.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\badges\\badges.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\modals\\modals.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\modals\\modals.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\modals\\modals.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\modals\\modals.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\modals\\modals.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\modals\\modals.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\modals\\modals.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\modals\\modals.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\notifications-routing.module.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\notifications-routing.module.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\notifications.module.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\notifications.module.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\toasters\\toast-simple\\toast-sample-icon.component.svg",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\toasters\\toast-simple\\toast-sample-icon.component.svg"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\toasters\\toast-simple\\toast-sample-icon.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\toasters\\toast-simple\\toast-sample-icon.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\toasters\\toast-simple\\toast.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\toasters\\toast-simple\\toast.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\toasters\\toast-simple\\toast.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\toasters\\toast-simple\\toast.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\toasters\\toast-simple\\toast.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\toasters\\toast-simple\\toast.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\toasters\\toast-simple\\toast.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\toasters\\toast-simple\\toast.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\toasters\\toasters.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\toasters\\toasters.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\toasters\\toasters.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\toasters\\toasters.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\toasters\\toasters.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\toasters\\toasters.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\notifications\\toasters\\toasters.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\notifications\\toasters\\toasters.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\pages\\login\\login.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\pages\\login\\login.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\pages\\login\\login.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\pages\\login\\login.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\pages\\login\\login.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\pages\\login\\login.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\pages\\login\\login.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\pages\\login\\login.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\pages\\page404\\page404.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\pages\\page404\\page404.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\pages\\page404\\page404.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\pages\\page404\\page404.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\pages\\page404\\page404.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\pages\\page404\\page404.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\pages\\page404\\page404.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\pages\\page404\\page404.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\pages\\page500\\page500.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\pages\\page500\\page500.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\pages\\page500\\page500.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\pages\\page500\\page500.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\pages\\page500\\page500.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\pages\\page500\\page500.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\pages\\page500\\page500.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\pages\\page500\\page500.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\pages\\pages-routing.module.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\pages\\pages-routing.module.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\pages\\pages.module.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\pages\\pages.module.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\pages\\register\\register.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\pages\\register\\register.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\pages\\register\\register.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\pages\\register\\register.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\pages\\register\\register.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\pages\\register\\register.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\pages\\register\\register.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\pages\\register\\register.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\theme\\colors.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\theme\\colors.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\theme\\colors.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\theme\\colors.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\theme\\theme-routing.module.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\theme\\theme-routing.module.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\theme\\theme.module.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\theme\\theme.module.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\theme\\typography.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\theme\\typography.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\theme\\typography.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\theme\\typography.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\widgets\\widgets-brand\\widgets-brand.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\widgets\\widgets-brand\\widgets-brand.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\widgets\\widgets-brand\\widgets-brand.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\widgets\\widgets-brand\\widgets-brand.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\widgets\\widgets-brand\\widgets-brand.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\widgets\\widgets-brand\\widgets-brand.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\widgets\\widgets-brand\\widgets-brand.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\widgets\\widgets-brand\\widgets-brand.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\widgets\\widgets-dropdown\\widgets-dropdown.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\widgets\\widgets-dropdown\\widgets-dropdown.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\widgets\\widgets-dropdown\\widgets-dropdown.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\widgets\\widgets-dropdown\\widgets-dropdown.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\widgets\\widgets-dropdown\\widgets-dropdown.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\widgets\\widgets-dropdown\\widgets-dropdown.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\widgets\\widgets-dropdown\\widgets-dropdown.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\widgets\\widgets-dropdown\\widgets-dropdown.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\widgets\\widgets-e\\widgets-e.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\widgets\\widgets-e\\widgets-e.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\widgets\\widgets-e\\widgets-e.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\widgets\\widgets-e\\widgets-e.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\widgets\\widgets-e\\widgets-e.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\widgets\\widgets-e\\widgets-e.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\widgets\\widgets-e\\widgets-e.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\widgets\\widgets-e\\widgets-e.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\widgets\\widgets-routing.module.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\widgets\\widgets-routing.module.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\widgets\\widgets.module.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\widgets\\widgets.module.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\widgets\\widgets\\widgets.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\widgets\\widgets\\widgets.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\widgets\\widgets\\widgets.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\widgets\\widgets\\widgets.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\widgets\\widgets\\widgets.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\widgets\\widgets\\widgets.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\app\\views\\widgets\\widgets\\widgets.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\app\\views\\widgets\\widgets\\widgets.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\assets\\.gitkeep",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\assets\\.gitkeep"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\assets\\angular.ico",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\assets\\angular.ico"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\assets\\favicon.ico"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\assets\\images\\angular.jpg",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\assets\\images\\angular.jpg"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\assets\\img\\avatars\\1.jpg",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\assets\\img\\avatars\\1.jpg"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\assets\\img\\avatars\\2.jpg",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\assets\\img\\avatars\\2.jpg"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\assets\\img\\avatars\\3.jpg",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\assets\\img\\avatars\\3.jpg"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\assets\\img\\avatars\\4.jpg",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\assets\\img\\avatars\\4.jpg"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\assets\\img\\avatars\\5.jpg",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\assets\\img\\avatars\\5.jpg"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\assets\\img\\avatars\\6.jpg",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\assets\\img\\avatars\\6.jpg"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\assets\\img\\avatars\\7.jpg",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\assets\\img\\avatars\\7.jpg"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\assets\\img\\avatars\\8.jpg",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\assets\\img\\avatars\\8.jpg"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\assets\\img\\avatars\\9.jpg",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\assets\\img\\avatars\\9.jpg"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\assets\\img\\brand\\coreui-angular.svg",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\assets\\img\\brand\\coreui-angular.svg"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\assets\\img\\brand\\coreui-base-white.svg",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\assets\\img\\brand\\coreui-base-white.svg"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\assets\\img\\brand\\coreui-base.svg",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\assets\\img\\brand\\coreui-base.svg"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\assets\\img\\brand\\coreui-signet-white.svg",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\assets\\img\\brand\\coreui-signet-white.svg"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\assets\\img\\brand\\coreui-signet.svg",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\assets\\img\\brand\\coreui-signet.svg"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\components\\docs-callout\\docs-callout.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\components\\docs-callout\\docs-callout.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\components\\docs-callout\\docs-callout.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\components\\docs-callout\\docs-callout.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\components\\docs-callout\\docs-callout.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\components\\docs-callout\\docs-callout.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\components\\docs-callout\\docs-callout.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\components\\docs-callout\\docs-callout.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\components\\docs-components.module.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\components\\docs-components.module.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\components\\docs-example\\docs-example.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\components\\docs-example\\docs-example.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\components\\docs-example\\docs-example.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\components\\docs-example\\docs-example.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\components\\docs-example\\docs-example.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\components\\docs-example\\docs-example.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\components\\docs-example\\docs-example.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\components\\docs-example\\docs-example.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\components\\docs-link\\docs-link.component.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\components\\docs-link\\docs-link.component.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\components\\docs-link\\docs-link.component.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\components\\docs-link\\docs-link.component.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\components\\docs-link\\docs-link.component.spec.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\components\\docs-link\\docs-link.component.spec.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\components\\docs-link\\docs-link.component.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\components\\docs-link\\docs-link.component.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\components\\index.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\components\\index.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\components\\public-api.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\components\\public-api.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\declarations.d.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\declarations.d.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\index.html",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\index.html"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\main.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\main.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\scss\\_charts.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\scss\\_charts.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\scss\\_custom.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\scss\\_custom.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\scss\\_examples.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\scss\\_examples.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\scss\\_fixes.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\scss\\_fixes.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\scss\\_layout.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\scss\\_layout.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\scss\\_scrollbar.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\scss\\_scrollbar.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\scss\\_variables.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\scss\\styles.scss",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\scss\\styles.scss"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\src\\test.ts",
+      "PackagePath": "staticwebassets\\SkillSwapp\\src\\test.ts"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\tsconfig.app.json",
+      "PackagePath": "staticwebassets\\SkillSwapp\\tsconfig.app.json"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\tsconfig.json",
+      "PackagePath": "staticwebassets\\SkillSwapp\\tsconfig.json"
+    },
+    {
+      "Id": "G:\\SkillSwap\\SkillSwap\\wwwroot\\SkillSwapp\\tsconfig.spec.json",
+      "PackagePath": "staticwebassets\\SkillSwapp\\tsconfig.spec.json"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.SkillSwap.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.SkillSwap.props",
+      "PackagePath": "build\\SkillSwap.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SkillSwap.props",
+      "PackagePath": "buildMultiTargeting\\SkillSwap.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.SkillSwap.props",
+      "PackagePath": "buildTransitive\\SkillSwap.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

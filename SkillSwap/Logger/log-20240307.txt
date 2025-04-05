@@ -1,0 +1,1347 @@
+2024-03-07 13:28:45.021 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 13:28:45.420 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 13:28:45.425 +05:30 [INF] Hosting environment: Development
+2024-03-07 13:28:45.427 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 13:28:45.521 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 13:28:46.624 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 1106.2713ms
+2024-03-07 13:28:46.650 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 13:28:46.678 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 19.2705ms
+2024-03-07 13:28:46.682 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 13:28:46.781 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 99.3306ms
+2024-03-07 13:28:46.953 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 13:28:47.156 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 203.4404ms
+2024-03-07 13:30:00.525 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 13:30:00.542 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 17.0703ms
+2024-03-07 13:30:00.551 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 13:30:00.551 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 13:30:00.561 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 9.6567ms
+2024-03-07 13:30:00.594 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 42.7514ms
+2024-03-07 13:30:00.901 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 13:30:00.909 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 8.0015ms
+2024-03-07 13:30:01.606 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 13:30:01.620 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 14.1174ms
+2024-03-07 13:30:01.627 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 13:30:01.628 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 0.5469ms
+2024-03-07 13:30:01.629 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 13:30:01.643 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 14.6101ms
+2024-03-07 13:30:01.693 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 13:30:01.704 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 10.7539ms
+2024-03-07 13:30:29.604 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 13:30:29.620 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 15.3989ms
+2024-03-07 13:30:29.627 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 13:30:29.630 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 13:30:29.630 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 3.2507ms
+2024-03-07 13:30:29.658 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 26.1755ms
+2024-03-07 13:30:29.700 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 13:30:29.706 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 6.6624ms
+2024-03-07 13:30:32.852 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 13:30:32.864 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 11.4930ms
+2024-03-07 13:30:32.872 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 13:30:32.872 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 13:30:32.873 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 1.0190ms
+2024-03-07 13:30:32.879 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 7.5103ms
+2024-03-07 13:30:32.918 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 13:30:32.920 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 2.2740ms
+2024-03-07 13:32:18.889 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/api/UserProfile/deleteProfile?userId=9d18c7a5-a3ef-4c41-962d-5bb20f9ed584 - -
+2024-03-07 13:32:19.450 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.DeleteProfile (SkillSwap)'
+2024-03-07 13:32:19.516 +05:30 [INF] Route matched with {action = "DeleteProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult DeleteProfile(System.String) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 13:32:30.830 +05:30 [INF] Executed DbCommand (115ms) [Parameters=[@__userId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[IsActive] = CAST(1 AS bit) AND [t].[UserId] = @__userId_0
+2024-03-07 13:32:47.879 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 13:32:47.902 +05:30 [INF] Executed action SkillSwap.Controllers.UserProfileController.DeleteProfile (SkillSwap) in 28379.1045ms
+2024-03-07 13:32:47.904 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.UserProfileController.DeleteProfile (SkillSwap)'
+2024-03-07 13:32:47.922 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/api/UserProfile/deleteProfile?userId=9d18c7a5-a3ef-4c41-962d-5bb20f9ed584 - - - 200 - application/json;+charset=utf-8 29031.3342ms
+2024-03-07 13:34:13.760 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 13:34:13.775 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 14.4127ms
+2024-03-07 13:34:13.799 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 13:34:13.800 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 1.4679ms
+2024-03-07 13:34:13.808 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 13:34:13.827 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 18.3766ms
+2024-03-07 13:34:14.060 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 13:34:14.067 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 6.4185ms
+2024-03-07 13:34:17.698 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 13:34:17.707 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 8.7478ms
+2024-03-07 13:34:17.716 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 13:34:17.717 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 0.7268ms
+2024-03-07 13:34:17.720 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 13:34:17.733 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 12.4558ms
+2024-03-07 13:34:17.787 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 13:34:17.790 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 2.8908ms
+2024-03-07 13:34:28.184 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/api/UserProfile/deleteProfile?userId=9d18c7a5-a3ef-4c41-962d-5bb20f9ed584 - -
+2024-03-07 13:34:28.186 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.DeleteProfile (SkillSwap)'
+2024-03-07 13:34:28.191 +05:30 [INF] Route matched with {action = "DeleteProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult DeleteProfile(System.String) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 13:34:31.366 +05:30 [INF] Executed DbCommand (5ms) [Parameters=[@__userId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[IsActive] = CAST(1 AS bit) AND [t].[UserId] = @__userId_0
+2024-03-07 13:34:39.091 +05:30 [INF] Executed DbCommand (13ms) [Parameters=[@p1='?' (DbType = Int32), @p0='?' (DbType = Boolean)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [tbl_Profile] SET [IsActive] = @p0
+OUTPUT 1
+WHERE [Id] = @p1;
+2024-03-07 13:34:43.722 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 13:34:43.724 +05:30 [INF] Executed action SkillSwap.Controllers.UserProfileController.DeleteProfile (SkillSwap) in 15532.3604ms
+2024-03-07 13:34:43.724 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.UserProfileController.DeleteProfile (SkillSwap)'
+2024-03-07 13:34:43.724 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/api/UserProfile/deleteProfile?userId=9d18c7a5-a3ef-4c41-962d-5bb20f9ed584 - - - 200 - application/json;+charset=utf-8 15539.7156ms
+2024-03-07 13:35:48.510 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 13:35:48.806 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 13:35:48.810 +05:30 [INF] Hosting environment: Development
+2024-03-07 13:35:48.813 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 13:35:48.849 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 13:35:49.423 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 13:35:49.424 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 583.0659ms
+2024-03-07 13:35:49.430 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 13:35:49.453 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 19.6982ms
+2024-03-07 13:35:49.472 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 42.3161ms
+2024-03-07 13:35:49.756 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 13:35:50.020 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 263.9464ms
+2024-03-07 13:35:56.884 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/api/UserProfile/profilebyid?userId=9d18c7a5-a3ef-4c41-962d-5bb20f9ed584 - -
+2024-03-07 13:35:57.019 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.ProfileById (SkillSwap)'
+2024-03-07 13:35:57.095 +05:30 [INF] Route matched with {action = "ProfileById", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult ProfileById(System.String) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 13:36:02.755 +05:30 [INF] Executed DbCommand (70ms) [Parameters=[@__userId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[UserId] = @__userId_0 AND [t].[IsActive] = CAST(1 AS bit)
+2024-03-07 13:36:11.337 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 13:36:11.375 +05:30 [INF] Executed action SkillSwap.Controllers.UserProfileController.ProfileById (SkillSwap) in 14273.6273ms
+2024-03-07 13:36:11.376 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.UserProfileController.ProfileById (SkillSwap)'
+2024-03-07 13:36:11.395 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/api/UserProfile/profilebyid?userId=9d18c7a5-a3ef-4c41-962d-5bb20f9ed584 - - - 200 - application/json;+charset=utf-8 14510.7477ms
+2024-03-07 13:40:00.139 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/updateprofile multipart/form-data;+boundary=--------------------------260948735065912887898510 83601
+2024-03-07 13:40:00.159 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.UpdateProfile (SkillSwap)'
+2024-03-07 13:40:00.172 +05:30 [INF] Route matched with {action = "UpdateProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult UpdateProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 13:40:14.639 +05:30 [INF] Executed DbCommand (8ms) [Parameters=[@__profile_UserId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[UserId] = @__profile_UserId_0 AND [t].[IsActive] = CAST(1 AS bit)
+2024-03-07 13:43:37.886 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 13:43:38.095 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 13:43:38.100 +05:30 [INF] Hosting environment: Development
+2024-03-07 13:43:38.101 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 13:43:38.133 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 13:43:38.551 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 422.9639ms
+2024-03-07 13:43:38.552 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 13:43:38.570 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 13:43:38.605 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 22.5030ms
+2024-03-07 13:43:38.629 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 58.9645ms
+2024-03-07 13:43:38.891 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 13:43:39.133 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 242.1993ms
+2024-03-07 13:43:41.642 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/updateprofile multipart/form-data;+boundary=--------------------------258750762547202452274823 83601
+2024-03-07 13:43:41.780 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.UpdateProfile (SkillSwap)'
+2024-03-07 13:43:41.836 +05:30 [INF] Route matched with {action = "UpdateProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult UpdateProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 13:43:48.832 +05:30 [INF] Executed DbCommand (72ms) [Parameters=[@__profile_UserId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[UserId] = @__profile_UserId_0 AND [t].[IsActive] = CAST(1 AS bit)
+2024-03-07 13:43:57.603 +05:30 [INF] Executed DbCommand (16ms) [Parameters=[@p6='?' (DbType = Int32), @p0='?' (Size = 4000), @p1='?' (DbType = DateTime2), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 4000), @p5='?' (Size = -1)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [tbl_Profile] SET [Address] = @p0, [DateOfBirth] = @p1, [Email] = @p2, [FirstName] = @p3, [Phone] = @p4, [ProfileImage] = @p5
+OUTPUT 1
+WHERE [Id] = @p6;
+2024-03-07 13:44:00.880 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 13:44:00.906 +05:30 [INF] Executed action SkillSwap.Controllers.UserProfileController.UpdateProfile (SkillSwap) in 19064.5547ms
+2024-03-07 13:44:00.908 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.UserProfileController.UpdateProfile (SkillSwap)'
+2024-03-07 13:44:00.927 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/UserProfile/updateprofile multipart/form-data;+boundary=--------------------------258750762547202452274823 83601 - 200 - application/json;+charset=utf-8 19285.3017ms
+2024-03-07 13:46:20.617 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 13:46:20.820 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 13:46:20.826 +05:30 [INF] Hosting environment: Development
+2024-03-07 13:46:20.828 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 13:46:20.858 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 13:46:21.252 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 399.6064ms
+2024-03-07 13:46:21.265 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 13:46:21.277 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 13:46:21.286 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 13.2879ms
+2024-03-07 13:46:21.321 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 43.5041ms
+2024-03-07 13:46:21.608 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 13:46:21.775 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 166.6261ms
+2024-03-07 13:46:40.650 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/updateprofile multipart/form-data;+boundary=--------------------------675275895044030860966266 83601
+2024-03-07 13:46:40.793 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.UpdateProfile (SkillSwap)'
+2024-03-07 13:46:40.873 +05:30 [INF] Route matched with {action = "UpdateProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult UpdateProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 13:46:45.757 +05:30 [INF] Executed DbCommand (74ms) [Parameters=[@__profile_UserId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[UserId] = @__profile_UserId_0 AND [t].[IsActive] = CAST(1 AS bit)
+2024-03-07 13:47:03.877 +05:30 [INF] Executed DbCommand (8ms) [Parameters=[@p1='?' (DbType = Int32), @p0='?' (DbType = DateTime2)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [tbl_Profile] SET [UpdatedDate] = @p0
+OUTPUT 1
+WHERE [Id] = @p1;
+2024-03-07 13:47:05.561 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 13:47:05.587 +05:30 [INF] Executed action SkillSwap.Controllers.UserProfileController.UpdateProfile (SkillSwap) in 24703.5803ms
+2024-03-07 13:47:05.590 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.UserProfileController.UpdateProfile (SkillSwap)'
+2024-03-07 13:47:05.616 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/UserProfile/updateprofile multipart/form-data;+boundary=--------------------------675275895044030860966266 83601 - 200 - application/json;+charset=utf-8 24962.3915ms
+2024-03-07 15:52:24.120 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 15:52:24.531 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 15:52:24.535 +05:30 [INF] Hosting environment: Development
+2024-03-07 15:52:24.537 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 15:52:24.622 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 15:52:25.305 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 15:52:25.312 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 15:52:25.322 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 703.5665ms
+2024-03-07 15:52:25.339 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 18.4826ms
+2024-03-07 15:52:25.356 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 51.1807ms
+2024-03-07 15:52:25.461 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 15:52:25.655 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 194.6838ms
+2024-03-07 15:56:18.880 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 15:56:18.898 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 18.6225ms
+2024-03-07 15:56:18.903 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 15:56:18.903 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 15:56:18.905 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 2.0143ms
+2024-03-07 15:56:18.922 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 19.6551ms
+2024-03-07 15:56:18.983 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 15:56:18.990 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 7.3598ms
+2024-03-07 15:56:19.836 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 15:56:19.846 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 9.8568ms
+2024-03-07 15:56:19.851 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 15:56:19.851 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 15:56:19.854 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 0.8913ms
+2024-03-07 15:56:19.862 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 10.7385ms
+2024-03-07 15:56:19.895 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 15:56:19.897 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 2.0210ms
+2024-03-07 15:56:20.520 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 15:56:20.527 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 6.6445ms
+2024-03-07 15:56:20.534 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 15:56:20.535 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 15:56:20.545 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 7.0494ms
+2024-03-07 15:56:20.555 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 20.5473ms
+2024-03-07 15:56:20.574 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 15:56:20.576 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 1.4988ms
+2024-03-07 15:56:21.221 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 15:56:21.228 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 6.8362ms
+2024-03-07 15:56:21.240 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 15:56:21.240 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 15:56:21.242 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 1.5015ms
+2024-03-07 15:56:21.252 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 11.6945ms
+2024-03-07 15:56:21.279 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 15:56:21.283 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 4.2636ms
+2024-03-07 15:56:21.813 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 15:56:21.820 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 7.6104ms
+2024-03-07 15:56:21.830 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 15:56:21.836 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 15:56:21.837 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 6.5499ms
+2024-03-07 15:56:21.837 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 0.6674ms
+2024-03-07 15:56:21.870 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 15:56:21.872 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 1.8970ms
+2024-03-07 15:56:22.472 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 15:56:22.478 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 6.6717ms
+2024-03-07 15:56:22.488 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 15:56:22.488 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 15:56:22.489 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 1.0372ms
+2024-03-07 15:56:22.493 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 5.9541ms
+2024-03-07 15:56:22.526 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 15:56:22.528 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 1.9798ms
+2024-03-07 15:56:23.103 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 15:56:23.110 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 7.0278ms
+2024-03-07 15:56:23.118 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 15:56:23.118 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 15:56:23.120 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 1.0883ms
+2024-03-07 15:56:23.125 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 6.3750ms
+2024-03-07 15:56:23.155 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 15:56:23.157 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 1.9668ms
+2024-03-07 15:56:23.726 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 15:56:23.735 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 9.0251ms
+2024-03-07 15:56:23.741 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 15:56:23.741 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 15:56:23.742 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 1.0032ms
+2024-03-07 15:56:23.749 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 7.1971ms
+2024-03-07 15:56:23.786 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 15:56:23.788 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 2.3936ms
+2024-03-07 15:58:18.572 +05:30 [INF] Request starting HTTP/2 POST https://localhost:44313/api/Authenticate/token application/x-www-form-urlencoded 51
+2024-03-07 15:58:18.602 +05:30 [INF] CORS policy execution successful.
+2024-03-07 15:58:19.552 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 15:58:19.644 +05:30 [INF] Route matched with {action = "Token", controller = "Authenticate"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Token(SkillSwap.Models.LoginModel) on controller SkillSwap.Controllers.AuthenticateController (SkillSwap).
+2024-03-07 15:58:28.002 +05:30 [INF] Executed DbCommand (192ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-03-07 15:58:34.244 +05:30 [INF] Executed DbCommand (25ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2024-03-07 16:05:24.009 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 16:05:24.219 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 16:05:24.224 +05:30 [INF] Hosting environment: Development
+2024-03-07 16:05:24.226 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 16:05:24.256 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 16:05:24.895 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 644.8177ms
+2024-03-07 16:05:24.897 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 16:05:24.905 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 16:05:24.934 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 22.0663ms
+2024-03-07 16:05:24.945 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 47.9405ms
+2024-03-07 16:05:25.075 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 16:05:25.294 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 218.9435ms
+2024-03-07 16:05:47.929 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:44313/api/Authenticate/register application/json 91
+2024-03-07 16:05:48.454 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenSignatureKeyNotFoundException: IDX10503: Signature validation failed. Token does not have a kid. Keys tried: '[PII of type 'System.Text.StringBuilder' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'. Number of keys in TokenValidationParameters: '1'. 
+Number of keys in Configuration: '0'. 
+Exceptions caught:
+ '[PII of type 'System.Text.StringBuilder' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+token: '[PII of type 'System.IdentityModel.Tokens.Jwt.JwtSecurityToken' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'. See https://aka.ms/IDX10503 for details.
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateSignature(String token, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateSignatureAndIssuerSecurityKey(String token, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 16:05:48.599 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10503: Signature validation failed. Token does not have a kid. Keys tried: '[PII of type 'System.Text.StringBuilder' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'. Number of keys in TokenValidationParameters: '1'. 
+Number of keys in Configuration: '0'. 
+Exceptions caught:
+ '[PII of type 'System.Text.StringBuilder' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+token: '[PII of type 'System.IdentityModel.Tokens.Jwt.JwtSecurityToken' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'. See https://aka.ms/IDX10503 for details.
+2024-03-07 16:05:48.609 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.AuthenticateController.Register (SkillSwap)'
+2024-03-07 16:05:48.669 +05:30 [INF] Route matched with {action = "Register", controller = "Authenticate"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(SkillSwap.Models.RegisterModel) on controller SkillSwap.Controllers.AuthenticateController (SkillSwap).
+2024-03-07 16:05:53.461 +05:30 [INF] Executed DbCommand (92ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-03-07 16:05:56.035 +05:30 [INF] Executed DbCommand (27ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-03-07 16:05:56.259 +05:30 [INF] Executed DbCommand (21ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (Size = 256), @p4='?' (DbType = Boolean), @p5='?' (DbType = Boolean), @p6='?' (DbType = DateTimeOffset), @p7='?' (Size = 256), @p8='?' (Size = 256), @p9='?' (Size = 4000), @p10='?' (Size = 4000), @p11='?' (DbType = Boolean), @p12='?' (Size = 4000), @p13='?' (DbType = Boolean), @p14='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [AspNetUsers] ([Id], [AccessFailedCount], [ConcurrencyStamp], [Email], [EmailConfirmed], [LockoutEnabled], [LockoutEnd], [NormalizedEmail], [NormalizedUserName], [PasswordHash], [PhoneNumber], [PhoneNumberConfirmed], [SecurityStamp], [TwoFactorEnabled], [UserName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14);
+2024-03-07 16:06:00.040 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.Response'.
+2024-03-07 16:06:00.055 +05:30 [INF] Executed action SkillSwap.Controllers.AuthenticateController.Register (SkillSwap) in 11378.9034ms
+2024-03-07 16:06:00.056 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.AuthenticateController.Register (SkillSwap)'
+2024-03-07 16:06:00.074 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:44313/api/Authenticate/register application/json 91 - 200 - application/json;+charset=utf-8 12144.1952ms
+2024-03-07 16:07:29.161 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------836970316112854972655686 403
+2024-03-07 16:07:29.214 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '28/02/2024 16:25:11', Current time (UTC): '07/03/2024 10:37:29'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 16:07:29.215 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '28/02/2024 16:25:11', Current time (UTC): '07/03/2024 10:37:29'.
+2024-03-07 16:07:29.215 +05:30 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-07 16:07:29.216 +05:30 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-07 16:07:29.217 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------836970316112854972655686 403 - 405 - - 56.3758ms
+2024-03-07 16:08:08.949 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------521382975049998635159880 403
+2024-03-07 16:08:08.983 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '28/02/2024 16:25:11', Current time (UTC): '07/03/2024 10:38:08'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 16:08:08.983 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '28/02/2024 16:25:11', Current time (UTC): '07/03/2024 10:38:08'.
+2024-03-07 16:08:08.983 +05:30 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-07 16:08:08.983 +05:30 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-07 16:08:08.984 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------521382975049998635159880 403 - 405 - - 35.8434ms
+2024-03-07 16:08:33.442 +05:30 [INF] Request starting HTTP/1.1 GET https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------834923630130631556080154 403
+2024-03-07 16:08:33.445 +05:30 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-03-07 16:08:33.445 +05:30 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-03-07 16:08:33.447 +05:30 [INF] Request finished HTTP/1.1 GET https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------834923630130631556080154 403 - 405 - - 6.0443ms
+2024-03-07 16:08:39.415 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------726744638923450540448220 403
+2024-03-07 16:08:39.415 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 16:08:39.436 +05:30 [INF] Route matched with {action = "Token", controller = "Authenticate"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Token(SkillSwap.Models.LoginModel) on controller SkillSwap.Controllers.AuthenticateController (SkillSwap).
+2024-03-07 16:08:41.510 +05:30 [INF] Executed DbCommand (5ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-03-07 16:08:42.899 +05:30 [INF] Executed DbCommand (5ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2024-03-07 16:08:47.966 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 16:08:49.783 +05:30 [INF] Executed action SkillSwap.Controllers.AuthenticateController.Token (SkillSwap) in 10346.6115ms
+2024-03-07 16:08:49.783 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 16:08:49.783 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------726744638923450540448220 403 - 200 - application/json;+charset=utf-8 10367.9782ms
+2024-03-07 16:10:27.605 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------210008494151037363070719 186564
+2024-03-07 16:10:27.610 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '05/03/2024 21:35:25', Current time (UTC): '07/03/2024 10:40:27'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 16:10:27.610 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '05/03/2024 21:35:25', Current time (UTC): '07/03/2024 10:40:27'.
+2024-03-07 16:10:27.610 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap)'
+2024-03-07 16:10:27.614 +05:30 [INF] Route matched with {action = "SetProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult SetProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 16:10:27.662 +05:30 [INF] Executing UnauthorizedObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 16:10:27.662 +05:30 [INF] Executed action SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap) in 48.2228ms
+2024-03-07 16:10:27.662 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap)'
+2024-03-07 16:10:27.669 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------210008494151037363070719 186564 - 401 - application/json;+charset=utf-8 64.3599ms
+2024-03-07 16:10:43.181 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------369089049169412799462138 186564
+2024-03-07 16:10:43.183 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenNotYetValidException: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:08:45', Current time (UTC): '07/03/2024 10:40:43'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 16:10:43.183 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:08:45', Current time (UTC): '07/03/2024 10:40:43'.
+2024-03-07 16:10:43.183 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap)'
+2024-03-07 16:10:43.183 +05:30 [INF] Route matched with {action = "SetProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult SetProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 16:10:43.228 +05:30 [INF] Executed DbCommand (5ms) [Parameters=[@__profile_UserId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[Id] = @__profile_UserId_0
+2024-03-07 16:10:43.239 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[@__profile_UserId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[UserId] = @__profile_UserId_0
+2024-03-07 16:10:43.336 +05:30 [INF] Executed DbCommand (33ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (DbType = DateTime2), @p3='?' (DbType = DateTime2), @p4='?' (Size = 4000), @p5='?' (Size = 4000), @p6='?' (DbType = Boolean), @p7='?' (Size = 4000), @p8='?' (Size = 4000), @p9='?' (Size = -1), @p10='?' (Size = 4000), @p11='?' (DbType = DateTime2), @p12='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [tbl_Profile] ([Address], [CreatedBy], [CreatedDate], [DateOfBirth], [Email], [FirstName], [IsActive], [LastName], [Phone], [ProfileImage], [UpdatedBy], [UpdatedDate], [UserId])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12);
+2024-03-07 16:10:43.360 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 16:10:43.369 +05:30 [INF] Executed action SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap) in 185.8514ms
+2024-03-07 16:10:43.369 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap)'
+2024-03-07 16:10:43.369 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------369089049169412799462138 186564 - 200 - application/json;+charset=utf-8 188.2563ms
+2024-03-07 16:13:41.406 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 16:13:41.589 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 16:13:41.594 +05:30 [INF] Hosting environment: Development
+2024-03-07 16:13:41.595 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 16:13:41.615 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 16:13:41.994 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 16:13:41.995 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 16:13:41.995 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 383.1349ms
+2024-03-07 16:13:42.034 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 31.0938ms
+2024-03-07 16:13:42.053 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 59.1430ms
+2024-03-07 16:13:42.130 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 16:13:42.294 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 163.8423ms
+2024-03-07 16:14:17.722 +05:30 [INF] Request starting HTTP/2 POST https://localhost:44313/api/Authenticate/token application/x-www-form-urlencoded 55
+2024-03-07 16:14:17.788 +05:30 [INF] CORS policy execution successful.
+2024-03-07 16:14:17.944 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 16:14:18.013 +05:30 [INF] Route matched with {action = "Token", controller = "Authenticate"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Token(SkillSwap.Models.LoginModel) on controller SkillSwap.Controllers.AuthenticateController (SkillSwap).
+2024-03-07 16:14:25.010 +05:30 [INF] Executed DbCommand (88ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-03-07 16:14:26.631 +05:30 [INF] Executed DbCommand (23ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2024-03-07 16:15:14.131 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 16:15:15.705 +05:30 [INF] Executed action SkillSwap.Controllers.AuthenticateController.Token (SkillSwap) in 57685.8591ms
+2024-03-07 16:15:15.706 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 16:15:15.721 +05:30 [INF] Request finished HTTP/2 POST https://localhost:44313/api/Authenticate/token application/x-www-form-urlencoded 55 - 200 - application/json;+charset=utf-8 57998.5809ms
+2024-03-07 16:22:13.979 +05:30 [INF] Request starting HTTP/2 POST https://localhost:44313/api/Authenticate/token application/x-www-form-urlencoded 55
+2024-03-07 16:22:13.988 +05:30 [INF] CORS policy execution successful.
+2024-03-07 16:22:13.993 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 16:22:13.995 +05:30 [INF] Route matched with {action = "Token", controller = "Authenticate"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Token(SkillSwap.Models.LoginModel) on controller SkillSwap.Controllers.AuthenticateController (SkillSwap).
+2024-03-07 16:22:17.786 +05:30 [INF] Executed DbCommand (7ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-03-07 16:22:17.800 +05:30 [INF] Executed DbCommand (10ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2024-03-07 16:22:17.802 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 16:22:17.802 +05:30 [INF] Executed action SkillSwap.Controllers.AuthenticateController.Token (SkillSwap) in 3806.441ms
+2024-03-07 16:22:17.802 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 16:22:17.802 +05:30 [INF] Request finished HTTP/2 POST https://localhost:44313/api/Authenticate/token application/x-www-form-urlencoded 55 - 200 - application/json;+charset=utf-8 3825.0510ms
+2024-03-07 16:22:36.571 +05:30 [INF] Request starting HTTP/2 POST https://localhost:44313/api/Authenticate/token application/x-www-form-urlencoded 55
+2024-03-07 16:22:36.571 +05:30 [INF] CORS policy execution successful.
+2024-03-07 16:22:36.573 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 16:22:36.573 +05:30 [INF] Route matched with {action = "Token", controller = "Authenticate"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Token(SkillSwap.Models.LoginModel) on controller SkillSwap.Controllers.AuthenticateController (SkillSwap).
+2024-03-07 16:22:44.164 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-03-07 16:22:44.169 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2024-03-07 16:22:44.170 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 16:22:44.170 +05:30 [INF] Executed action SkillSwap.Controllers.AuthenticateController.Token (SkillSwap) in 7596.6578ms
+2024-03-07 16:22:44.170 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 16:22:44.170 +05:30 [INF] Request finished HTTP/2 POST https://localhost:44313/api/Authenticate/token application/x-www-form-urlencoded 55 - 200 - application/json;+charset=utf-8 7599.1198ms
+2024-03-07 16:29:13.408 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 16:29:13.654 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 16:29:13.658 +05:30 [INF] Hosting environment: Development
+2024-03-07 16:29:13.659 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 16:29:13.693 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------806343785229505623477078 186564
+2024-03-07 16:29:13.693 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 16:29:14.185 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenNotYetValidException: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:08:45', Current time (UTC): '07/03/2024 10:59:14'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 16:29:14.257 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:08:45', Current time (UTC): '07/03/2024 10:59:14'.
+2024-03-07 16:29:14.259 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 570.1760ms
+2024-03-07 16:29:14.276 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap)'
+2024-03-07 16:29:14.803 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 16:29:14.806 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 16:29:14.816 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 538.2709ms
+2024-03-07 16:29:14.838 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 34.8666ms
+2024-03-07 16:29:14.872 +05:30 [INF] Route matched with {action = "SetProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult SetProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 16:29:15.057 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 16:29:15.321 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 263.7874ms
+2024-03-07 16:29:18.061 +05:30 [INF] Executed DbCommand (122ms) [Parameters=[@__profile_UserId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[Id] = @__profile_UserId_0
+2024-03-07 16:29:18.283 +05:30 [INF] Executed DbCommand (7ms) [Parameters=[@__profile_UserId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[UserId] = @__profile_UserId_0
+2024-03-07 16:29:18.362 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 16:29:18.418 +05:30 [INF] Executed action SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap) in 3529.9777ms
+2024-03-07 16:29:18.421 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap)'
+2024-03-07 16:29:18.461 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------806343785229505623477078 186564 - 200 - application/json;+charset=utf-8 4773.1959ms
+2024-03-07 16:29:26.913 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------368206758831862952337711 186564
+2024-03-07 16:29:26.916 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenNotYetValidException: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:08:45', Current time (UTC): '07/03/2024 10:59:26'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 16:29:26.916 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:08:45', Current time (UTC): '07/03/2024 10:59:26'.
+2024-03-07 16:29:26.916 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap)'
+2024-03-07 16:29:26.916 +05:30 [INF] Route matched with {action = "SetProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult SetProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 16:45:54.538 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 16:45:55.234 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 16:45:55.241 +05:30 [INF] Hosting environment: Development
+2024-03-07 16:45:55.245 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 16:45:55.412 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 16:45:55.412 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------325497128770605587506567 186564
+2024-03-07 16:45:57.181 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 1778.4303ms
+2024-03-07 16:45:57.210 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 16:45:57.224 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 13.9528ms
+2024-03-07 16:45:57.242 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 16:45:57.301 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 58.7290ms
+2024-03-07 16:45:57.657 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 16:45:58.080 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 423.8829ms
+2024-03-07 16:45:58.543 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenNotYetValidException: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:08:45', Current time (UTC): '07/03/2024 11:15:58'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 16:45:58.778 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:08:45', Current time (UTC): '07/03/2024 11:15:58'.
+2024-03-07 16:45:58.784 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap)'
+2024-03-07 16:45:58.848 +05:30 [INF] Route matched with {action = "SetProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult SetProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 16:46:06.955 +05:30 [INF] Executing UnauthorizedObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 16:46:09.052 +05:30 [INF] Executed action SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap) in 10196.799ms
+2024-03-07 16:46:09.056 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap)'
+2024-03-07 16:46:09.077 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------325497128770605587506567 186564 - 401 - application/json;+charset=utf-8 13675.9237ms
+2024-03-07 16:46:27.215 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------512623268690298800060178 403
+2024-03-07 16:46:27.217 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 16:46:27.268 +05:30 [INF] Route matched with {action = "Token", controller = "Authenticate"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Token(SkillSwap.Models.LoginModel) on controller SkillSwap.Controllers.AuthenticateController (SkillSwap).
+2024-03-07 16:46:31.414 +05:30 [INF] Executed DbCommand (137ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-03-07 16:46:31.663 +05:30 [INF] Executed DbCommand (12ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2024-03-07 16:46:31.704 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 16:46:31.713 +05:30 [INF] Executed action SkillSwap.Controllers.AuthenticateController.Token (SkillSwap) in 4444.8153ms
+2024-03-07 16:46:31.713 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 16:46:31.726 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------512623268690298800060178 403 - 200 - application/json;+charset=utf-8 4510.5448ms
+2024-03-07 16:46:44.406 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------865513291090671269982154 186564
+2024-03-07 16:46:44.410 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenNotYetValidException: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:46:31', Current time (UTC): '07/03/2024 11:16:44'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 16:46:44.410 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:46:31', Current time (UTC): '07/03/2024 11:16:44'.
+2024-03-07 16:46:44.410 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap)'
+2024-03-07 16:46:44.410 +05:30 [INF] Route matched with {action = "SetProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult SetProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 16:51:14.022 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 16:51:14.273 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 16:51:14.278 +05:30 [INF] Hosting environment: Development
+2024-03-07 16:51:14.280 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 16:51:14.314 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 16:51:14.879 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 570.2946ms
+2024-03-07 16:51:14.899 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 16:51:14.899 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 16:51:14.919 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 12.5469ms
+2024-03-07 16:51:14.940 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 40.1775ms
+2024-03-07 16:51:15.138 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 16:51:15.308 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 169.0863ms
+2024-03-07 16:51:20.278 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------587344564497774949716242 403
+2024-03-07 16:51:20.431 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 16:51:20.499 +05:30 [INF] Route matched with {action = "Token", controller = "Authenticate"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Token(SkillSwap.Models.LoginModel) on controller SkillSwap.Controllers.AuthenticateController (SkillSwap).
+2024-03-07 16:51:25.514 +05:30 [INF] Executed DbCommand (88ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-03-07 16:51:27.462 +05:30 [INF] Executed DbCommand (25ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2024-03-07 16:51:51.812 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 16:51:51.832 +05:30 [INF] Executed action SkillSwap.Controllers.AuthenticateController.Token (SkillSwap) in 31327.9504ms
+2024-03-07 16:51:51.834 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 16:51:51.851 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------587344564497774949716242 403 - 200 - application/json;+charset=utf-8 31572.5534ms
+2024-03-07 16:52:05.372 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------047480726779227986866552 186564
+2024-03-07 16:52:05.479 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenNotYetValidException: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:51:39', Current time (UTC): '07/03/2024 11:22:05'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 16:52:05.522 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:51:39', Current time (UTC): '07/03/2024 11:22:05'.
+2024-03-07 16:52:05.522 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap)'
+2024-03-07 16:52:05.525 +05:30 [INF] Route matched with {action = "SetProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult SetProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 16:52:10.541 +05:30 [INF] Executed DbCommand (4ms) [Parameters=[@__profile_UserId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[Id] = @__profile_UserId_0
+2024-03-07 16:53:32.511 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 16:53:32.687 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 16:53:32.692 +05:30 [INF] Hosting environment: Development
+2024-03-07 16:53:32.694 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 16:53:32.720 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 16:53:33.110 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 393.8150ms
+2024-03-07 16:53:33.112 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 16:53:33.128 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 16:53:33.147 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 19.6148ms
+2024-03-07 16:53:33.160 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 32.0312ms
+2024-03-07 16:53:33.302 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 16:53:33.466 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 163.6057ms
+2024-03-07 16:53:34.785 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------382961010172331284455858 186564
+2024-03-07 16:53:35.159 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenNotYetValidException: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:51:39', Current time (UTC): '07/03/2024 11:23:35'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 16:53:35.220 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:51:39', Current time (UTC): '07/03/2024 11:23:35'.
+2024-03-07 16:53:35.226 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap)'
+2024-03-07 16:53:35.294 +05:30 [INF] Route matched with {action = "SetProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult SetProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 16:55:17.865 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 16:55:18.066 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 16:55:18.069 +05:30 [INF] Hosting environment: Development
+2024-03-07 16:55:18.071 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 16:55:18.094 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 16:55:18.475 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 16:55:18.478 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 386.6086ms
+2024-03-07 16:55:18.480 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 16:55:18.513 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 27.6446ms
+2024-03-07 16:55:18.539 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 58.6641ms
+2024-03-07 16:55:18.633 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 16:55:18.763 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 130.7492ms
+2024-03-07 16:55:21.710 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------590914243798333285862289 186564
+2024-03-07 16:55:22.123 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenNotYetValidException: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:51:39', Current time (UTC): '07/03/2024 11:25:22'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 16:55:22.184 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:51:39', Current time (UTC): '07/03/2024 11:25:22'.
+2024-03-07 16:55:22.192 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap)'
+2024-03-07 16:55:22.268 +05:30 [INF] Route matched with {action = "SetProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult SetProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 16:55:58.442 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 16:55:58.631 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 16:55:58.635 +05:30 [INF] Hosting environment: Development
+2024-03-07 16:55:58.637 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 16:55:58.667 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 16:55:59.621 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 947.7380ms
+2024-03-07 16:55:59.796 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 16:55:59.796 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 16:55:59.818 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 14.0682ms
+2024-03-07 16:55:59.838 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 41.4051ms
+2024-03-07 16:55:59.976 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 16:56:00.140 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 163.9532ms
+2024-03-07 16:56:00.309 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------275408307654462402109356 186564
+2024-03-07 16:56:00.749 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenNotYetValidException: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:51:39', Current time (UTC): '07/03/2024 11:26:00'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 16:56:00.852 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:51:39', Current time (UTC): '07/03/2024 11:26:00'.
+2024-03-07 16:56:00.863 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap)'
+2024-03-07 16:56:00.943 +05:30 [INF] Route matched with {action = "SetProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult SetProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 16:57:21.716 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 16:57:21.884 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 16:57:21.888 +05:30 [INF] Hosting environment: Development
+2024-03-07 16:57:21.890 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 16:57:21.910 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 16:57:22.231 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 16:57:22.236 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 16:57:22.240 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 333.8857ms
+2024-03-07 16:57:22.258 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 11.2522ms
+2024-03-07 16:57:22.282 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 46.2764ms
+2024-03-07 16:57:22.358 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 16:57:22.488 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 129.2344ms
+2024-03-07 16:57:28.870 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------663181458889184497898187 186564
+2024-03-07 16:57:29.200 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenNotYetValidException: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:51:39', Current time (UTC): '07/03/2024 11:27:29'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 16:57:29.236 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:51:39', Current time (UTC): '07/03/2024 11:27:29'.
+2024-03-07 16:57:29.241 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap)'
+2024-03-07 16:57:29.282 +05:30 [INF] Route matched with {action = "SetProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult SetProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 16:59:00.623 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 16:59:00.824 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 16:59:00.829 +05:30 [INF] Hosting environment: Development
+2024-03-07 16:59:00.831 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 16:59:00.855 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 16:59:01.171 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 16:59:01.171 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 16:59:01.183 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 323.5881ms
+2024-03-07 16:59:01.190 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 13.7227ms
+2024-03-07 16:59:01.210 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 38.7586ms
+2024-03-07 16:59:01.288 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 16:59:01.419 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 131.7199ms
+2024-03-07 16:59:05.131 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------861963856703486481318964 186564
+2024-03-07 16:59:05.462 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenNotYetValidException: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:51:39', Current time (UTC): '07/03/2024 11:29:05'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 16:59:05.500 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:51:39', Current time (UTC): '07/03/2024 11:29:05'.
+2024-03-07 16:59:05.504 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap)'
+2024-03-07 16:59:05.551 +05:30 [INF] Route matched with {action = "SetProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult SetProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 16:59:17.572 +05:30 [INF] Executed DbCommand (68ms) [Parameters=[@__profile_UserId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[Id] = @__profile_UserId_0
+2024-03-07 16:59:19.918 +05:30 [INF] Executed DbCommand (8ms) [Parameters=[@__profile_UserId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[UserId] = @__profile_UserId_0
+2024-03-07 16:59:22.321 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 16:59:22.348 +05:30 [INF] Executed action SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap) in 16790.2697ms
+2024-03-07 16:59:22.350 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap)'
+2024-03-07 16:59:22.367 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------861963856703486481318964 186564 - 200 - application/json;+charset=utf-8 17235.1024ms
+2024-03-07 17:00:38.615 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------218262323650790946942802 186564
+2024-03-07 17:00:38.644 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenNotYetValidException: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:51:39', Current time (UTC): '07/03/2024 11:30:38'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 17:00:38.645 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:51:39', Current time (UTC): '07/03/2024 11:30:38'.
+2024-03-07 17:00:38.645 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap)'
+2024-03-07 17:00:38.645 +05:30 [INF] Route matched with {action = "SetProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult SetProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 17:00:45.550 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[@__profile_UserId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[Id] = @__profile_UserId_0
+2024-03-07 17:00:47.631 +05:30 [INF] Executed DbCommand (2ms) [Parameters=[@__profile_UserId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[UserId] = @__profile_UserId_0
+2024-03-07 17:00:54.764 +05:30 [INF] Executed DbCommand (33ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (DbType = DateTime2), @p3='?' (DbType = DateTime2), @p4='?' (Size = 4000), @p5='?' (Size = 4000), @p6='?' (DbType = Boolean), @p7='?' (Size = 4000), @p8='?' (Size = 4000), @p9='?' (Size = -1), @p10='?' (Size = 4000), @p11='?' (DbType = DateTime2), @p12='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [tbl_Profile] ([Address], [CreatedBy], [CreatedDate], [DateOfBirth], [Email], [FirstName], [IsActive], [LastName], [Phone], [ProfileImage], [UpdatedBy], [UpdatedDate], [UserId])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12);
+2024-03-07 17:00:57.106 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 17:00:57.107 +05:30 [INF] Executed action SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap) in 18460.1127ms
+2024-03-07 17:00:57.107 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap)'
+2024-03-07 17:00:57.107 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------218262323650790946942802 186564 - 200 - application/json;+charset=utf-8 18490.9634ms
+2024-03-07 17:03:05.411 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/updateprofile multipart/form-data;+boundary=--------------------------216751066370883311050422 83601
+2024-03-07 17:03:05.417 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenNotYetValidException: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:08:45', Current time (UTC): '07/03/2024 11:33:05'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 17:03:05.418 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:08:45', Current time (UTC): '07/03/2024 11:33:05'.
+2024-03-07 17:03:05.418 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.UpdateProfile (SkillSwap)'
+2024-03-07 17:03:05.426 +05:30 [INF] Route matched with {action = "UpdateProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult UpdateProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 17:03:07.969 +05:30 [INF] Executed DbCommand (6ms) [Parameters=[@__profile_UserId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[UserId] = @__profile_UserId_0 AND [t].[IsActive] = CAST(1 AS bit)
+2024-03-07 17:05:04.258 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 17:05:04.414 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 17:05:04.419 +05:30 [INF] Hosting environment: Development
+2024-03-07 17:05:04.421 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 17:05:04.443 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 17:05:04.769 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 17:05:04.770 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 17:05:04.772 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 331.6212ms
+2024-03-07 17:05:04.796 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 21.6352ms
+2024-03-07 17:05:04.808 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 38.4223ms
+2024-03-07 17:05:04.889 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 17:05:05.015 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 126.1780ms
+2024-03-07 17:05:09.025 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/updateprofile multipart/form-data;+boundary=--------------------------799441766711676724091725 83601
+2024-03-07 17:05:09.399 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenNotYetValidException: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:08:45', Current time (UTC): '07/03/2024 11:35:09'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 17:05:09.445 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 16:08:45', Current time (UTC): '07/03/2024 11:35:09'.
+2024-03-07 17:05:09.452 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.UpdateProfile (SkillSwap)'
+2024-03-07 17:05:09.511 +05:30 [INF] Route matched with {action = "UpdateProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult UpdateProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 17:05:14.480 +05:30 [INF] Executed DbCommand (362ms) [Parameters=[@__profile_UserId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[UserId] = @__profile_UserId_0 AND [t].[IsActive] = CAST(1 AS bit)
+2024-03-07 17:07:21.149 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 17:07:21.289 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 17:07:21.293 +05:30 [INF] Hosting environment: Development
+2024-03-07 17:07:21.295 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 17:07:21.315 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 17:07:21.666 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 17:07:21.667 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 354.9106ms
+2024-03-07 17:07:21.679 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 17:07:21.693 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 16.2290ms
+2024-03-07 17:07:21.710 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 31.3202ms
+2024-03-07 17:07:21.794 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 17:07:21.952 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 157.5063ms
+2024-03-07 17:07:26.630 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------882385744009349812659446 403
+2024-03-07 17:07:36.685 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: String reference not set to an instance of a String. (Parameter 's')
+   at System.Text.Encoding.GetBytes(String s)
+   at System.Text.UTF8Encoding.UTF8EncodingSealed.GetBytes(String s)
+   at Program.<>c__DisplayClass0_0.<<Main>$>b__3(JwtBearerOptions options) in G:\SkillSwap\SkillSwap\Program.cs:line 41
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd[TArg](String name, Func`3 createOptions, TArg factoryArgument)
+   at Microsoft.Extensions.Options.OptionsMonitor`1.Get(String name)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2024-03-07 17:07:36.690 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------882385744009349812659446 403 - 500 - text/plain;+charset=utf-8 10060.1643ms
+2024-03-07 17:07:54.746 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 17:07:54.762 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 16.2269ms
+2024-03-07 17:07:54.787 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 17:07:54.788 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 0.7971ms
+2024-03-07 17:07:54.788 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 17:07:54.802 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 13.3647ms
+2024-03-07 17:07:54.891 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 17:07:54.894 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 3.0838ms
+2024-03-07 17:09:41.582 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 17:09:41.597 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 14.8637ms
+2024-03-07 17:09:41.621 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 17:09:41.622 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 0.8296ms
+2024-03-07 17:09:41.631 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 17:09:41.638 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 7.1594ms
+2024-03-07 17:09:41.896 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 17:09:41.901 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 4.1257ms
+2024-03-07 17:09:53.884 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 17:09:54.058 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 17:09:54.062 +05:30 [INF] Hosting environment: Development
+2024-03-07 17:09:54.064 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 17:09:54.087 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 17:09:54.445 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 17:09:54.448 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 365.4429ms
+2024-03-07 17:09:54.465 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 17:09:54.468 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 20.6407ms
+2024-03-07 17:09:54.496 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 30.6316ms
+2024-03-07 17:09:54.644 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 17:09:54.893 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 248.3153ms
+2024-03-07 17:09:55.467 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------619244417835309230388084 403
+2024-03-07 17:09:55.565 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 17:09:55.625 +05:30 [INF] Route matched with {action = "Token", controller = "Authenticate"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Token(SkillSwap.Models.LoginModel) on controller SkillSwap.Controllers.AuthenticateController (SkillSwap).
+2024-03-07 17:10:00.797 +05:30 [INF] Executed DbCommand (124ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-03-07 17:10:03.307 +05:30 [INF] Executed DbCommand (29ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2024-03-07 17:10:25.161 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 17:10:25.183 +05:30 [INF] Executed action SkillSwap.Controllers.AuthenticateController.Token (SkillSwap) in 29550.2062ms
+2024-03-07 17:10:25.184 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 17:10:25.201 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------619244417835309230388084 403 - 200 - application/json;+charset=utf-8 29734.2993ms
+2024-03-07 17:10:37.051 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/updateprofile multipart/form-data;+boundary=--------------------------335099813414927447353631 83601
+2024-03-07 17:10:37.153 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenNotYetValidException: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 17:10:20', Current time (UTC): '07/03/2024 11:40:37'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 17:10:37.173 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 17:10:20', Current time (UTC): '07/03/2024 11:40:37'.
+2024-03-07 17:10:37.174 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.UpdateProfile (SkillSwap)'
+2024-03-07 17:10:37.175 +05:30 [INF] Route matched with {action = "UpdateProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult UpdateProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 17:10:40.025 +05:30 [INF] Executed DbCommand (9ms) [Parameters=[@__profile_UserId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[UserId] = @__profile_UserId_0 AND [t].[IsActive] = CAST(1 AS bit)
+2024-03-07 17:11:39.385 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 17:11:39.590 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 17:11:39.594 +05:30 [INF] Hosting environment: Development
+2024-03-07 17:11:39.596 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 17:11:39.621 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 17:11:40.269 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 17:11:40.271 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 653.3394ms
+2024-03-07 17:11:40.289 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 17:11:40.298 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 21.2395ms
+2024-03-07 17:11:40.375 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 85.5197ms
+2024-03-07 17:11:40.489 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 17:11:40.664 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 174.7289ms
+2024-03-07 17:11:44.681 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/updateprofile multipart/form-data;+boundary=--------------------------532475466571166186448657 83601
+2024-03-07 17:11:45.132 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenNotYetValidException: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 17:10:20', Current time (UTC): '07/03/2024 11:41:45'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 17:11:45.199 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 17:10:20', Current time (UTC): '07/03/2024 11:41:45'.
+2024-03-07 17:11:45.206 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.UpdateProfile (SkillSwap)'
+2024-03-07 17:11:45.275 +05:30 [INF] Route matched with {action = "UpdateProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult UpdateProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 17:11:49.527 +05:30 [INF] Executed DbCommand (78ms) [Parameters=[@__profile_UserId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[UserId] = @__profile_UserId_0 AND [t].[IsActive] = CAST(1 AS bit)
+2024-03-07 17:14:06.620 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 17:14:06.850 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 17:14:06.853 +05:30 [INF] Hosting environment: Development
+2024-03-07 17:14:06.855 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 17:14:06.882 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 17:14:07.516 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 17:14:07.520 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 641.8599ms
+2024-03-07 17:14:07.532 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 9.0175ms
+2024-03-07 17:14:07.552 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 17:14:07.592 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 39.9976ms
+2024-03-07 17:14:07.698 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------724463445903016961614748 403
+2024-03-07 17:14:08.146 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 17:14:08.152 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 17:14:08.237 +05:30 [INF] Route matched with {action = "Token", controller = "Authenticate"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Token(SkillSwap.Models.LoginModel) on controller SkillSwap.Controllers.AuthenticateController (SkillSwap).
+2024-03-07 17:14:08.415 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 263.0909ms
+2024-03-07 17:14:14.622 +05:30 [INF] Executed DbCommand (183ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-03-07 17:14:16.477 +05:30 [INF] Executed DbCommand (31ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2024-03-07 17:14:40.992 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 17:14:41.019 +05:30 [INF] Executed action SkillSwap.Controllers.AuthenticateController.Token (SkillSwap) in 32771.2408ms
+2024-03-07 17:14:41.021 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 17:14:41.037 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------724463445903016961614748 403 - 200 - application/json;+charset=utf-8 33339.0690ms
+2024-03-07 17:14:51.865 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/updateprofile multipart/form-data;+boundary=--------------------------995843591627610407486983 83601
+2024-03-07 17:14:51.904 +05:30 [INF] Bearer was not authenticated. Failure message: No SecurityTokenValidator available for token.
+2024-03-07 17:14:51.905 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.UpdateProfile (SkillSwap)'
+2024-03-07 17:14:51.908 +05:30 [INF] Route matched with {action = "UpdateProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult UpdateProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 17:14:54.126 +05:30 [INF] Executed DbCommand (5ms) [Parameters=[@__profile_UserId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[UserId] = @__profile_UserId_0 AND [t].[IsActive] = CAST(1 AS bit)
+2024-03-07 17:25:00.084 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 17:25:00.433 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 17:25:00.437 +05:30 [INF] Hosting environment: Development
+2024-03-07 17:25:00.439 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 17:25:00.471 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 17:25:01.110 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 642.8936ms
+2024-03-07 17:25:01.111 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 17:25:01.132 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 17:25:01.152 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 31.8199ms
+2024-03-07 17:25:01.197 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 65.6297ms
+2024-03-07 17:25:01.318 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 17:25:01.523 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 204.6616ms
+2024-03-07 17:25:06.577 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------203310128399098447385438 403
+2024-03-07 17:25:06.834 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 17:25:06.909 +05:30 [INF] Route matched with {action = "Token", controller = "Authenticate"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Token(SkillSwap.Models.LoginModel) on controller SkillSwap.Controllers.AuthenticateController (SkillSwap).
+2024-03-07 17:25:12.207 +05:30 [INF] Executed DbCommand (111ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-03-07 17:25:14.272 +05:30 [INF] Executed DbCommand (6ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2024-03-07 17:25:47.807 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 17:25:47.824 +05:30 [INF] Executed action SkillSwap.Controllers.AuthenticateController.Token (SkillSwap) in 40909.7264ms
+2024-03-07 17:25:47.826 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 17:25:47.842 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------203310128399098447385438 403 - 200 - application/json;+charset=utf-8 41264.1453ms
+2024-03-07 17:25:59.411 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 17:25:59.426 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 14.3107ms
+2024-03-07 17:25:59.455 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 17:25:59.457 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 1.4614ms
+2024-03-07 17:25:59.464 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 17:25:59.480 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 16.0228ms
+2024-03-07 17:25:59.620 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 17:25:59.626 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 6.7249ms
+2024-03-07 18:21:10.237 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 18:21:10.488 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 18:21:10.492 +05:30 [INF] Hosting environment: Development
+2024-03-07 18:21:10.494 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 18:21:10.689 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 18:21:11.315 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 630.8803ms
+2024-03-07 18:21:11.345 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 18:21:11.365 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 18:21:11.375 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 14.1743ms
+2024-03-07 18:21:11.410 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 44.2300ms
+2024-03-07 18:21:11.705 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 18:21:12.035 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 329.4998ms
+2024-03-07 18:21:12.902 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/updateprofile multipart/form-data;+boundary=--------------------------324760420249926467737779 83601
+2024-03-07 18:21:13.139 +05:30 [INF] Bearer was not authenticated. Failure message: No SecurityTokenValidator available for token.
+2024-03-07 18:21:13.149 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.UpdateProfile (SkillSwap)'
+2024-03-07 18:21:13.221 +05:30 [INF] Route matched with {action = "UpdateProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult UpdateProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 18:21:19.090 +05:30 [INF] Executed DbCommand (125ms) [Parameters=[@__profile_UserId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[UserId] = @__profile_UserId_0 AND [t].[IsActive] = CAST(1 AS bit)
+2024-03-07 18:22:43.524 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 18:22:43.735 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 18:22:43.738 +05:30 [INF] Hosting environment: Development
+2024-03-07 18:22:43.740 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 18:22:43.763 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 18:22:44.208 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 18:22:44.212 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 18:22:44.212 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 450.8751ms
+2024-03-07 18:22:44.242 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 26.2862ms
+2024-03-07 18:22:44.259 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 46.7977ms
+2024-03-07 18:22:44.347 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 18:22:44.486 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 139.4302ms
+2024-03-07 18:22:47.967 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/updateprofile multipart/form-data;+boundary=--------------------------450731984704783119882179 83601
+2024-03-07 18:22:48.152 +05:30 [INF] Bearer was not authenticated. Failure message: No SecurityTokenValidator available for token.
+2024-03-07 18:22:48.159 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.UpdateProfile (SkillSwap)'
+2024-03-07 18:22:48.217 +05:30 [INF] Route matched with {action = "UpdateProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult UpdateProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 18:22:53.673 +05:30 [INF] Executed DbCommand (354ms) [Parameters=[@__profile_UserId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[UserId] = @__profile_UserId_0 AND [t].[IsActive] = CAST(1 AS bit)
+2024-03-07 18:31:27.042 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 18:31:27.251 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 18:31:27.254 +05:30 [INF] Hosting environment: Development
+2024-03-07 18:31:27.256 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 18:31:27.281 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 18:31:27.756 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 477.7448ms
+2024-03-07 18:31:27.777 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 18:31:27.777 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 18:31:27.795 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 10.9410ms
+2024-03-07 18:31:27.809 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 32.0144ms
+2024-03-07 18:31:27.901 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 18:31:28.071 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 169.9038ms
+2024-03-07 18:31:32.542 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/updateprofile multipart/form-data;+boundary=--------------------------281040769369633469280971 83601
+2024-03-07 18:31:32.762 +05:30 [INF] Bearer was not authenticated. Failure message: No SecurityTokenValidator available for token.
+2024-03-07 18:31:32.770 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.UpdateProfile (SkillSwap)'
+2024-03-07 18:31:32.831 +05:30 [INF] Route matched with {action = "UpdateProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult UpdateProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 18:31:37.803 +05:30 [INF] Executed DbCommand (74ms) [Parameters=[@__profile_UserId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[UserId] = @__profile_UserId_0 AND [t].[IsActive] = CAST(1 AS bit)
+2024-03-07 18:31:53.327 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 18:31:53.486 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 18:31:53.490 +05:30 [INF] Hosting environment: Development
+2024-03-07 18:31:53.492 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 18:31:53.514 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 18:31:53.841 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 330.9081ms
+2024-03-07 18:31:53.859 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 18:31:53.869 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 18:31:53.878 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 11.4875ms
+2024-03-07 18:31:53.901 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 32.0561ms
+2024-03-07 18:31:54.141 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 18:31:54.290 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 149.1121ms
+2024-03-07 18:31:55.349 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------536806401773242618583155 403
+2024-03-07 18:31:55.484 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 18:31:55.539 +05:30 [INF] Route matched with {action = "Token", controller = "Authenticate"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Token(SkillSwap.Models.LoginModel) on controller SkillSwap.Controllers.AuthenticateController (SkillSwap).
+2024-03-07 18:32:00.424 +05:30 [INF] Executed DbCommand (124ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-03-07 18:32:08.407 +05:30 [INF] Executed DbCommand (27ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2024-03-07 18:34:09.861 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 18:34:10.009 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 18:34:10.012 +05:30 [INF] Hosting environment: Development
+2024-03-07 18:34:10.014 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 18:34:10.034 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 18:34:10.349 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 319.6053ms
+2024-03-07 18:34:10.352 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 18:34:10.366 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 18:34:10.384 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 17.8251ms
+2024-03-07 18:34:10.400 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 34.7476ms
+2024-03-07 18:34:10.572 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 18:34:10.698 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 125.9164ms
+2024-03-07 18:34:11.869 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------392799201627154952573236 403
+2024-03-07 18:34:12.026 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 18:34:12.074 +05:30 [INF] Route matched with {action = "Token", controller = "Authenticate"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Token(SkillSwap.Models.LoginModel) on controller SkillSwap.Controllers.AuthenticateController (SkillSwap).
+2024-03-07 18:34:16.061 +05:30 [INF] Executed DbCommand (103ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-03-07 18:34:16.365 +05:30 [INF] Executed DbCommand (8ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2024-03-07 19:11:46.529 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 19:11:46.921 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 19:11:46.927 +05:30 [INF] Hosting environment: Development
+2024-03-07 19:11:46.929 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 19:11:46.974 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 19:11:47.842 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 19:11:47.842 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 19:11:47.846 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 881.9444ms
+2024-03-07 19:11:47.879 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 25.7388ms
+2024-03-07 19:11:47.925 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 83.3474ms
+2024-03-07 19:11:48.084 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 19:11:48.825 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 740.2738ms
+2024-03-07 19:12:02.080 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------245611070899875568860074 401
+2024-03-07 19:12:02.369 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 19:12:02.530 +05:30 [INF] Route matched with {action = "Token", controller = "Authenticate"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Token(SkillSwap.Models.LoginModel) on controller SkillSwap.Controllers.AuthenticateController (SkillSwap).
+2024-03-07 19:12:11.879 +05:30 [INF] Executed DbCommand (180ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-03-07 19:12:14.249 +05:30 [INF] Executed DbCommand (13ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2024-03-07 19:12:15.517 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 19:12:15.548 +05:30 [INF] Executed action SkillSwap.Controllers.AuthenticateController.Token (SkillSwap) in 13009.4308ms
+2024-03-07 19:12:15.550 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 19:12:15.625 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------245611070899875568860074 401 - 200 - application/json;+charset=utf-8 13543.4538ms
+2024-03-07 19:12:39.001 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------825219998710754410357825 186564
+2024-03-07 19:12:39.143 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenNotYetValidException: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 19:12:15', Current time (UTC): '07/03/2024 13:42:39'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 19:12:39.195 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 19:12:15', Current time (UTC): '07/03/2024 13:42:39'.
+2024-03-07 19:12:39.203 +05:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (User)
+2024-03-07 19:12:39.213 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2024-03-07 19:12:39.215 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------825219998710754410357825 186564 - 401 - - 213.3611ms
+2024-03-07 19:13:23.107 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------480655970483314362930987 403
+2024-03-07 19:13:23.114 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 19:13:23.114 +05:30 [INF] Route matched with {action = "Token", controller = "Authenticate"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Token(SkillSwap.Models.LoginModel) on controller SkillSwap.Controllers.AuthenticateController (SkillSwap).
+2024-03-07 19:13:24.953 +05:30 [INF] Executed DbCommand (4ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-03-07 19:13:24.959 +05:30 [INF] Executed DbCommand (3ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2024-03-07 19:13:25.312 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 19:13:25.313 +05:30 [INF] Executed action SkillSwap.Controllers.AuthenticateController.Token (SkillSwap) in 2198.2733ms
+2024-03-07 19:13:25.313 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 19:13:25.313 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------480655970483314362930987 403 - 200 - application/json;+charset=utf-8 2206.1141ms
+2024-03-07 19:13:37.475 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------521322378373092901621928 186564
+2024-03-07 19:13:37.477 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenNotYetValidException: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 19:13:25', Current time (UTC): '07/03/2024 13:43:37'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 19:13:37.477 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 19:13:25', Current time (UTC): '07/03/2024 13:43:37'.
+2024-03-07 19:13:37.478 +05:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (User)
+2024-03-07 19:13:37.478 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2024-03-07 19:13:37.478 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------521322378373092901621928 186564 - 401 - - 2.9378ms
+2024-03-07 19:14:44.138 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 19:14:44.155 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 16.3894ms
+2024-03-07 19:14:44.168 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 19:14:44.169 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 0.8946ms
+2024-03-07 19:14:44.174 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 19:14:44.181 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 6.8853ms
+2024-03-07 19:14:44.289 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 19:14:44.295 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 5.9519ms
+2024-03-07 19:14:47.209 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------390443865028906852005484 186564
+2024-03-07 19:14:47.211 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenNotYetValidException: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 19:13:25', Current time (UTC): '07/03/2024 13:44:47'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 19:14:47.212 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 19:13:25', Current time (UTC): '07/03/2024 13:44:47'.
+2024-03-07 19:14:47.212 +05:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (User)
+2024-03-07 19:14:47.212 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2024-03-07 19:14:47.217 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------390443865028906852005484 186564 - 401 - - 7.2945ms
+2024-03-07 19:15:02.443 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-07 19:15:02.646 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-07 19:15:02.650 +05:30 [INF] Hosting environment: Development
+2024-03-07 19:15:02.652 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-07 19:15:02.680 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 19:15:03.027 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 353.0422ms
+2024-03-07 19:15:03.040 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 19:15:03.045 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 19:15:03.053 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 5.7160ms
+2024-03-07 19:15:03.073 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 28.6254ms
+2024-03-07 19:15:03.264 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 19:15:03.416 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 152.0222ms
+2024-03-07 19:15:09.355 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------310705745483559408244237 186564
+2024-03-07 19:15:10.078 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenNotYetValidException: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 19:13:25', Current time (UTC): '07/03/2024 13:45:10'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 19:15:10.141 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 19:13:25', Current time (UTC): '07/03/2024 13:45:10'.
+2024-03-07 19:15:10.147 +05:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (User)
+2024-03-07 19:15:10.156 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2024-03-07 19:15:10.158 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------310705745483559408244237 186564 - 401 - - 802.9363ms
+2024-03-07 19:15:16.764 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------538693071041894629269681 403
+2024-03-07 19:15:16.771 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 19:15:16.819 +05:30 [INF] Route matched with {action = "Token", controller = "Authenticate"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Token(SkillSwap.Models.LoginModel) on controller SkillSwap.Controllers.AuthenticateController (SkillSwap).
+2024-03-07 19:15:20.594 +05:30 [INF] Executed DbCommand (89ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2024-03-07 19:15:20.819 +05:30 [INF] Executed DbCommand (5ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2024-03-07 19:15:22.573 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 19:15:22.599 +05:30 [INF] Executed action SkillSwap.Controllers.AuthenticateController.Token (SkillSwap) in 5772.6413ms
+2024-03-07 19:15:22.600 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.AuthenticateController.Token (SkillSwap)'
+2024-03-07 19:15:22.615 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/Authenticate/token multipart/form-data;+boundary=--------------------------538693071041894629269681 403 - 200 - application/json;+charset=utf-8 5850.6028ms
+2024-03-07 19:15:35.370 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------918666100093889447258637 186564
+2024-03-07 19:15:35.376 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenNotYetValidException: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 19:15:22', Current time (UTC): '07/03/2024 13:45:35'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 19:15:35.376 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 19:15:22', Current time (UTC): '07/03/2024 13:45:35'.
+2024-03-07 19:15:35.377 +05:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (User)
+2024-03-07 19:15:35.377 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2024-03-07 19:15:35.377 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------918666100093889447258637 186564 - 401 - - 6.8850ms
+2024-03-07 19:15:42.553 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 19:15:42.568 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 14.7420ms
+2024-03-07 19:15:42.577 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 19:15:42.577 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 19:15:42.579 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 1.1062ms
+2024-03-07 19:15:42.584 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 7.2294ms
+2024-03-07 19:15:42.650 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 19:15:42.656 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 5.3355ms
+2024-03-07 19:15:44.153 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------367501841931506123183220 186564
+2024-03-07 19:15:44.154 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenNotYetValidException: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 19:15:22', Current time (UTC): '07/03/2024 13:45:44'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateJWS(String token, TokenValidationParameters validationParameters, BaseConfiguration currentConfiguration, SecurityToken& signatureValidatedToken, ExceptionDispatchInfo& exceptionThrown)
+--- End of stack trace from previous location ---
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, JwtSecurityToken outerToken, TokenValidationParameters validationParameters, SecurityToken& signatureValidatedToken)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2024-03-07 19:15:44.154 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10222: Lifetime validation failed. The token is not yet valid. ValidFrom (UTC): '07/03/2024 19:15:22', Current time (UTC): '07/03/2024 13:45:44'.
+2024-03-07 19:15:44.154 +05:30 [INF] Executing endpoint 'SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap)'
+2024-03-07 19:15:44.160 +05:30 [INF] Route matched with {action = "SetProfile", controller = "UserProfile"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult SetProfile(SkillSwap.Models.ProfileExtended) on controller SkillSwap.Controllers.UserProfileController (SkillSwap).
+2024-03-07 19:15:45.890 +05:30 [INF] Executed DbCommand (10ms) [Parameters=[@__profile_UserId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[Id] = @__profile_UserId_0
+2024-03-07 19:15:45.912 +05:30 [INF] Executed DbCommand (12ms) [Parameters=[@__profile_UserId_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [t].[Id], [t].[Address], [t].[CreatedBy], [t].[CreatedDate], [t].[DateOfBirth], [t].[Email], [t].[FirstName], [t].[IsActive], [t].[LastName], [t].[Phone], [t].[ProfileImage], [t].[UpdatedBy], [t].[UpdatedDate], [t].[UserId]
+FROM [tbl_Profile] AS [t]
+WHERE [t].[UserId] = @__profile_UserId_0
+2024-03-07 19:15:45.950 +05:30 [INF] Executing OkObjectResult, writing value of type 'SkillSwap.Models.ApiResult'.
+2024-03-07 19:15:45.959 +05:30 [INF] Executed action SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap) in 1799.6553ms
+2024-03-07 19:15:45.960 +05:30 [INF] Executed endpoint 'SkillSwap.Controllers.UserProfileController.SetProfile (SkillSwap)'
+2024-03-07 19:15:45.967 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:44313/api/UserProfile/addProfile multipart/form-data;+boundary=--------------------------367501841931506123183220 186564 - 200 - application/json;+charset=utf-8 1813.7164ms
+2024-03-07 19:25:07.986 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 19:25:07.995 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 9.4917ms
+2024-03-07 19:25:08.023 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 19:25:08.024 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 0.8784ms
+2024-03-07 19:25:08.033 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 19:25:08.044 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 11.5072ms
+2024-03-07 19:25:08.252 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 19:25:08.256 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 3.8431ms
+2024-03-07 19:42:04.348 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-07 19:42:04.368 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 20.3254ms
+2024-03-07 19:42:04.387 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-07 19:42:04.387 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 0.8431ms
+2024-03-07 19:42:04.394 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-07 19:42:04.403 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 9.0647ms
+2024-03-07 19:42:04.616 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-07 19:42:04.620 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 4.1122ms

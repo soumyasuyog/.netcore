@@ -1,0 +1,2561 @@
+{
+  "ContentRoots": [
+    "/mnt/g/SkillSwap/SkillSwap/wwwroot/"
+  ],
+  "Root": {
+    "Children": {
+      "SkillSwapp": {
+        "Children": {
+          ".editorconfig": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "SkillSwapp/.editorconfig"
+            },
+            "Patterns": null
+          },
+          ".gitignore": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "SkillSwapp/.gitignore"
+            },
+            "Patterns": null
+          },
+          "angular.json": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "SkillSwapp/angular.json"
+            },
+            "Patterns": null
+          },
+          "api.config.ts": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "SkillSwapp/api.config.ts"
+            },
+            "Patterns": null
+          },
+          "CHANGELOG.md": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "SkillSwapp/CHANGELOG.md"
+            },
+            "Patterns": null
+          },
+          "karma.conf.js": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "SkillSwapp/karma.conf.js"
+            },
+            "Patterns": null
+          },
+          "package-lock.json": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "SkillSwapp/package-lock.json"
+            },
+            "Patterns": null
+          },
+          "package.json": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "SkillSwapp/package.json"
+            },
+            "Patterns": null
+          },
+          "README.md": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "SkillSwapp/README.md"
+            },
+            "Patterns": null
+          },
+          "src": {
+            "Children": {
+              "app": {
+                "Children": {
+                  "app-routing.module.ts": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "SkillSwapp/src/app/app-routing.module.ts"
+                    },
+                    "Patterns": null
+                  },
+                  "app.component.spec.ts": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "SkillSwapp/src/app/app.component.spec.ts"
+                    },
+                    "Patterns": null
+                  },
+                  "app.component.ts": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "SkillSwapp/src/app/app.component.ts"
+                    },
+                    "Patterns": null
+                  },
+                  "app.module.ts": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "SkillSwapp/src/app/app.module.ts"
+                    },
+                    "Patterns": null
+                  },
+                  "containers": {
+                    "Children": {
+                      "default-layout": {
+                        "Children": {
+                          "default-footer": {
+                            "Children": {
+                              "default-footer.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/containers/default-layout/default-footer/default-footer.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "default-footer.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/containers/default-layout/default-footer/default-footer.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "default-footer.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/containers/default-layout/default-footer/default-footer.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "default-footer.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/containers/default-layout/default-footer/default-footer.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "default-header": {
+                            "Children": {
+                              "default-header.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/containers/default-layout/default-header/default-header.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "default-header.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/containers/default-layout/default-header/default-header.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "default-header.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/containers/default-layout/default-header/default-header.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "default-header.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/containers/default-layout/default-header/default-header.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "default-layout.component.html": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/containers/default-layout/default-layout.component.html"
+                            },
+                            "Patterns": null
+                          },
+                          "default-layout.component.scss": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/containers/default-layout/default-layout.component.scss"
+                            },
+                            "Patterns": null
+                          },
+                          "default-layout.component.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/containers/default-layout/default-layout.component.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "index.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/containers/default-layout/index.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "_nav.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/containers/default-layout/_nav.ts"
+                            },
+                            "Patterns": null
+                          }
+                        },
+                        "Asset": null,
+                        "Patterns": null
+                      },
+                      "index.ts": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "SkillSwapp/src/app/containers/index.ts"
+                        },
+                        "Patterns": null
+                      }
+                    },
+                    "Asset": null,
+                    "Patterns": null
+                  },
+                  "icons": {
+                    "Children": {
+                      "icon-subset.ts": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "SkillSwapp/src/app/icons/icon-subset.ts"
+                        },
+                        "Patterns": null
+                      }
+                    },
+                    "Asset": null,
+                    "Patterns": null
+                  },
+                  "views": {
+                    "Children": {
+                      "base": {
+                        "Children": {
+                          "accordion": {
+                            "Children": {
+                              "accordions.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/accordion/accordions.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "accordions.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/accordion/accordions.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "accordions.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/accordion/accordions.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "accordions.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/accordion/accordions.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "base-routing.module.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/base/base-routing.module.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "base.module.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/base/base.module.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "breadcrumbs": {
+                            "Children": {
+                              "breadcrumbs.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/breadcrumbs/breadcrumbs.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "breadcrumbs.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/breadcrumbs/breadcrumbs.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "breadcrumbs.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/breadcrumbs/breadcrumbs.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "breadcrumbs.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/breadcrumbs/breadcrumbs.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "cards": {
+                            "Children": {
+                              "cards.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/cards/cards.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "cards.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/cards/cards.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "cards.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/cards/cards.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "cards.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/cards/cards.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "carousels": {
+                            "Children": {
+                              "carousels.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/carousels/carousels.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "carousels.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/carousels/carousels.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "carousels.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/carousels/carousels.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "carousels.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/carousels/carousels.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "collapses": {
+                            "Children": {
+                              "collapses.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/collapses/collapses.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "collapses.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/collapses/collapses.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "collapses.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/collapses/collapses.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "collapses.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/collapses/collapses.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "list-groups": {
+                            "Children": {
+                              "list-groups.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/list-groups/list-groups.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "list-groups.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/list-groups/list-groups.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "list-groups.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/list-groups/list-groups.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "list-groups.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/list-groups/list-groups.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "navs": {
+                            "Children": {
+                              "navs.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/navs/navs.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "navs.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/navs/navs.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "navs.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/navs/navs.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "navs.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/navs/navs.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "paginations": {
+                            "Children": {
+                              "paginations.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/paginations/paginations.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "paginations.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/paginations/paginations.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "paginations.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/paginations/paginations.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "paginations.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/paginations/paginations.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "placeholders": {
+                            "Children": {
+                              "placeholders.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/placeholders/placeholders.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "placeholders.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/placeholders/placeholders.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "placeholders.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/placeholders/placeholders.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "placeholders.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/placeholders/placeholders.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "popovers": {
+                            "Children": {
+                              "popovers.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/popovers/popovers.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "popovers.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/popovers/popovers.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "popovers.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/popovers/popovers.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "popovers.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/popovers/popovers.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "progress": {
+                            "Children": {
+                              "progress.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/progress/progress.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "progress.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/progress/progress.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "progress.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/progress/progress.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "progress.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/progress/progress.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "spinners": {
+                            "Children": {
+                              "spinners.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/spinners/spinners.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "spinners.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/spinners/spinners.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "spinners.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/spinners/spinners.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "spinners.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/spinners/spinners.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "tables": {
+                            "Children": {
+                              "tables.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/tables/tables.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "tables.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/tables/tables.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "tables.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/tables/tables.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "tables.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/tables/tables.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "tabs": {
+                            "Children": {
+                              "tabs.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/tabs/tabs.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "tabs.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/tabs/tabs.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "tabs.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/tabs/tabs.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "tabs.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/tabs/tabs.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "tooltips": {
+                            "Children": {
+                              "tooltips.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/tooltips/tooltips.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "tooltips.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/tooltips/tooltips.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "tooltips.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/tooltips/tooltips.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "tooltips.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/base/tooltips/tooltips.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          }
+                        },
+                        "Asset": null,
+                        "Patterns": null
+                      },
+                      "buttons": {
+                        "Children": {
+                          "button-groups": {
+                            "Children": {
+                              "button-groups.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/buttons/button-groups/button-groups.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "button-groups.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/buttons/button-groups/button-groups.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "button-groups.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/buttons/button-groups/button-groups.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "button-groups.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/buttons/button-groups/button-groups.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "buttons-routing.module.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/buttons/buttons-routing.module.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "buttons.module.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/buttons/buttons.module.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "buttons": {
+                            "Children": {
+                              "buttons.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/buttons/buttons/buttons.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "buttons.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/buttons/buttons/buttons.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "buttons.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/buttons/buttons/buttons.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "buttons.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/buttons/buttons/buttons.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "dropdowns": {
+                            "Children": {
+                              "dropdowns.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/buttons/dropdowns/dropdowns.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "dropdowns.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/buttons/dropdowns/dropdowns.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "dropdowns.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/buttons/dropdowns/dropdowns.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          }
+                        },
+                        "Asset": null,
+                        "Patterns": null
+                      },
+                      "charts": {
+                        "Children": {
+                          "charts-routing.module.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/charts/charts-routing.module.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "charts.component.html": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/charts/charts.component.html"
+                            },
+                            "Patterns": null
+                          },
+                          "charts.component.scss": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/charts/charts.component.scss"
+                            },
+                            "Patterns": null
+                          },
+                          "charts.component.spec.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/charts/charts.component.spec.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "charts.component.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/charts/charts.component.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "charts.module.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/charts/charts.module.ts"
+                            },
+                            "Patterns": null
+                          }
+                        },
+                        "Asset": null,
+                        "Patterns": null
+                      },
+                      "dashboard": {
+                        "Children": {
+                          "dashboard-charts-data.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/dashboard/dashboard-charts-data.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "dashboard-routing.module.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/dashboard/dashboard-routing.module.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "dashboard.component.html": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/dashboard/dashboard.component.html"
+                            },
+                            "Patterns": null
+                          },
+                          "dashboard.component.scss": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/dashboard/dashboard.component.scss"
+                            },
+                            "Patterns": null
+                          },
+                          "dashboard.component.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/dashboard/dashboard.component.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "dashboard.module.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/dashboard/dashboard.module.ts"
+                            },
+                            "Patterns": null
+                          }
+                        },
+                        "Asset": null,
+                        "Patterns": null
+                      },
+                      "forms": {
+                        "Children": {
+                          "checks-radios": {
+                            "Children": {
+                              "checks-radios.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/checks-radios/checks-radios.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "checks-radios.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/checks-radios/checks-radios.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "checks-radios.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/checks-radios/checks-radios.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "checks-radios.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/checks-radios/checks-radios.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "floating-labels": {
+                            "Children": {
+                              "floating-labels.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/floating-labels/floating-labels.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "floating-labels.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/floating-labels/floating-labels.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "floating-labels.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/floating-labels/floating-labels.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "floating-labels.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/floating-labels/floating-labels.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "form-controls": {
+                            "Children": {
+                              "form-controls.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/form-controls/form-controls.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "form-controls.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/form-controls/form-controls.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "form-controls.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/form-controls/form-controls.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "form-controls.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/form-controls/form-controls.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "forms-routing.module.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/forms/forms-routing.module.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "forms.module.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/forms/forms.module.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "input-groups": {
+                            "Children": {
+                              "input-groups.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/input-groups/input-groups.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "input-groups.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/input-groups/input-groups.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "input-groups.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/input-groups/input-groups.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "input-groups.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/input-groups/input-groups.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "layout": {
+                            "Children": {
+                              "layout.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/layout/layout.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "layout.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/layout/layout.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "layout.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/layout/layout.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "layout.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/layout/layout.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "ranges": {
+                            "Children": {
+                              "ranges.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/ranges/ranges.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "ranges.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/ranges/ranges.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "ranges.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/ranges/ranges.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "ranges.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/ranges/ranges.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "select": {
+                            "Children": {
+                              "select.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/select/select.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "select.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/select/select.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "select.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/select/select.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "select.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/select/select.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "validation": {
+                            "Children": {
+                              "validation.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/validation/validation.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "validation.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/validation/validation.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "validation.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/validation/validation.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "validation.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/forms/validation/validation.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          }
+                        },
+                        "Asset": null,
+                        "Patterns": null
+                      },
+                      "icons": {
+                        "Children": {
+                          "coreui-icons.component.html": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/icons/coreui-icons.component.html"
+                            },
+                            "Patterns": null
+                          },
+                          "coreui-icons.component.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/icons/coreui-icons.component.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "icons-routing.module.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/icons/icons-routing.module.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "icons.module.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/icons/icons.module.ts"
+                            },
+                            "Patterns": null
+                          }
+                        },
+                        "Asset": null,
+                        "Patterns": null
+                      },
+                      "notifications": {
+                        "Children": {
+                          "alerts": {
+                            "Children": {
+                              "alerts.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/notifications/alerts/alerts.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "alerts.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/notifications/alerts/alerts.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "alerts.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/notifications/alerts/alerts.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "alerts.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/notifications/alerts/alerts.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "badges": {
+                            "Children": {
+                              "badges.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/notifications/badges/badges.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "badges.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/notifications/badges/badges.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "badges.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/notifications/badges/badges.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "badges.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/notifications/badges/badges.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "modals": {
+                            "Children": {
+                              "modals.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/notifications/modals/modals.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "modals.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/notifications/modals/modals.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "modals.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/notifications/modals/modals.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "modals.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/notifications/modals/modals.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "notifications-routing.module.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/notifications/notifications-routing.module.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "notifications.module.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/notifications/notifications.module.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "toasters": {
+                            "Children": {
+                              "toast-simple": {
+                                "Children": {
+                                  "toast-sample-icon.component.svg": {
+                                    "Children": null,
+                                    "Asset": {
+                                      "ContentRootIndex": 0,
+                                      "SubPath": "SkillSwapp/src/app/views/notifications/toasters/toast-simple/toast-sample-icon.component.svg"
+                                    },
+                                    "Patterns": null
+                                  },
+                                  "toast-sample-icon.component.ts": {
+                                    "Children": null,
+                                    "Asset": {
+                                      "ContentRootIndex": 0,
+                                      "SubPath": "SkillSwapp/src/app/views/notifications/toasters/toast-simple/toast-sample-icon.component.ts"
+                                    },
+                                    "Patterns": null
+                                  },
+                                  "toast.component.html": {
+                                    "Children": null,
+                                    "Asset": {
+                                      "ContentRootIndex": 0,
+                                      "SubPath": "SkillSwapp/src/app/views/notifications/toasters/toast-simple/toast.component.html"
+                                    },
+                                    "Patterns": null
+                                  },
+                                  "toast.component.scss": {
+                                    "Children": null,
+                                    "Asset": {
+                                      "ContentRootIndex": 0,
+                                      "SubPath": "SkillSwapp/src/app/views/notifications/toasters/toast-simple/toast.component.scss"
+                                    },
+                                    "Patterns": null
+                                  },
+                                  "toast.component.spec.ts": {
+                                    "Children": null,
+                                    "Asset": {
+                                      "ContentRootIndex": 0,
+                                      "SubPath": "SkillSwapp/src/app/views/notifications/toasters/toast-simple/toast.component.spec.ts"
+                                    },
+                                    "Patterns": null
+                                  },
+                                  "toast.component.ts": {
+                                    "Children": null,
+                                    "Asset": {
+                                      "ContentRootIndex": 0,
+                                      "SubPath": "SkillSwapp/src/app/views/notifications/toasters/toast-simple/toast.component.ts"
+                                    },
+                                    "Patterns": null
+                                  }
+                                },
+                                "Asset": null,
+                                "Patterns": null
+                              },
+                              "toasters.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/notifications/toasters/toasters.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "toasters.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/notifications/toasters/toasters.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "toasters.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/notifications/toasters/toasters.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "toasters.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/notifications/toasters/toasters.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          }
+                        },
+                        "Asset": null,
+                        "Patterns": null
+                      },
+                      "pages": {
+                        "Children": {
+                          "login": {
+                            "Children": {
+                              "login.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/pages/login/login.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "login.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/pages/login/login.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "login.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/pages/login/login.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "login.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/pages/login/login.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "page404": {
+                            "Children": {
+                              "page404.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/pages/page404/page404.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "page404.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/pages/page404/page404.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "page404.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/pages/page404/page404.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "page404.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/pages/page404/page404.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "page500": {
+                            "Children": {
+                              "page500.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/pages/page500/page500.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "page500.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/pages/page500/page500.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "page500.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/pages/page500/page500.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "page500.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/pages/page500/page500.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "pages-routing.module.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/pages/pages-routing.module.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "pages.module.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/pages/pages.module.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "register": {
+                            "Children": {
+                              "register.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/pages/register/register.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "register.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/pages/register/register.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "register.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/pages/register/register.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "register.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/pages/register/register.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          }
+                        },
+                        "Asset": null,
+                        "Patterns": null
+                      },
+                      "theme": {
+                        "Children": {
+                          "colors.component.html": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/theme/colors.component.html"
+                            },
+                            "Patterns": null
+                          },
+                          "colors.component.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/theme/colors.component.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "theme-routing.module.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/theme/theme-routing.module.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "theme.module.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/theme/theme.module.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "typography.component.html": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/theme/typography.component.html"
+                            },
+                            "Patterns": null
+                          },
+                          "typography.component.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/theme/typography.component.ts"
+                            },
+                            "Patterns": null
+                          }
+                        },
+                        "Asset": null,
+                        "Patterns": null
+                      },
+                      "widgets": {
+                        "Children": {
+                          "widgets-brand": {
+                            "Children": {
+                              "widgets-brand.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/widgets/widgets-brand/widgets-brand.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "widgets-brand.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/widgets/widgets-brand/widgets-brand.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "widgets-brand.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/widgets/widgets-brand/widgets-brand.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "widgets-brand.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/widgets/widgets-brand/widgets-brand.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "widgets-dropdown": {
+                            "Children": {
+                              "widgets-dropdown.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/widgets/widgets-dropdown/widgets-dropdown.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "widgets-dropdown.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/widgets/widgets-dropdown/widgets-dropdown.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "widgets-dropdown.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/widgets/widgets-dropdown/widgets-dropdown.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "widgets-dropdown.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/widgets/widgets-dropdown/widgets-dropdown.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "widgets-e": {
+                            "Children": {
+                              "widgets-e.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/widgets/widgets-e/widgets-e.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "widgets-e.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/widgets/widgets-e/widgets-e.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "widgets-e.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/widgets/widgets-e/widgets-e.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "widgets-e.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/widgets/widgets-e/widgets-e.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          },
+                          "widgets-routing.module.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/widgets/widgets-routing.module.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "widgets.module.ts": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/app/views/widgets/widgets.module.ts"
+                            },
+                            "Patterns": null
+                          },
+                          "widgets": {
+                            "Children": {
+                              "widgets.component.html": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/widgets/widgets/widgets.component.html"
+                                },
+                                "Patterns": null
+                              },
+                              "widgets.component.scss": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/widgets/widgets/widgets.component.scss"
+                                },
+                                "Patterns": null
+                              },
+                              "widgets.component.spec.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/widgets/widgets/widgets.component.spec.ts"
+                                },
+                                "Patterns": null
+                              },
+                              "widgets.component.ts": {
+                                "Children": null,
+                                "Asset": {
+                                  "ContentRootIndex": 0,
+                                  "SubPath": "SkillSwapp/src/app/views/widgets/widgets/widgets.component.ts"
+                                },
+                                "Patterns": null
+                              }
+                            },
+                            "Asset": null,
+                            "Patterns": null
+                          }
+                        },
+                        "Asset": null,
+                        "Patterns": null
+                      }
+                    },
+                    "Asset": null,
+                    "Patterns": null
+                  }
+                },
+                "Asset": null,
+                "Patterns": null
+              },
+              "assets": {
+                "Children": {
+                  ".gitkeep": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "SkillSwapp/src/assets/.gitkeep"
+                    },
+                    "Patterns": null
+                  },
+                  "angular.ico": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "SkillSwapp/src/assets/angular.ico"
+                    },
+                    "Patterns": null
+                  },
+                  "favicon.ico": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "SkillSwapp/src/assets/favicon.ico"
+                    },
+                    "Patterns": null
+                  },
+                  "images": {
+                    "Children": {
+                      "angular.jpg": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "SkillSwapp/src/assets/images/angular.jpg"
+                        },
+                        "Patterns": null
+                      }
+                    },
+                    "Asset": null,
+                    "Patterns": null
+                  },
+                  "img": {
+                    "Children": {
+                      "avatars": {
+                        "Children": {
+                          "1.jpg": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/assets/img/avatars/1.jpg"
+                            },
+                            "Patterns": null
+                          },
+                          "2.jpg": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/assets/img/avatars/2.jpg"
+                            },
+                            "Patterns": null
+                          },
+                          "3.jpg": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/assets/img/avatars/3.jpg"
+                            },
+                            "Patterns": null
+                          },
+                          "4.jpg": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/assets/img/avatars/4.jpg"
+                            },
+                            "Patterns": null
+                          },
+                          "5.jpg": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/assets/img/avatars/5.jpg"
+                            },
+                            "Patterns": null
+                          },
+                          "6.jpg": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/assets/img/avatars/6.jpg"
+                            },
+                            "Patterns": null
+                          },
+                          "7.jpg": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/assets/img/avatars/7.jpg"
+                            },
+                            "Patterns": null
+                          },
+                          "8.jpg": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/assets/img/avatars/8.jpg"
+                            },
+                            "Patterns": null
+                          },
+                          "9.jpg": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/assets/img/avatars/9.jpg"
+                            },
+                            "Patterns": null
+                          }
+                        },
+                        "Asset": null,
+                        "Patterns": null
+                      },
+                      "brand": {
+                        "Children": {
+                          "coreui-angular.svg": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/assets/img/brand/coreui-angular.svg"
+                            },
+                            "Patterns": null
+                          },
+                          "coreui-base-white.svg": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/assets/img/brand/coreui-base-white.svg"
+                            },
+                            "Patterns": null
+                          },
+                          "coreui-base.svg": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/assets/img/brand/coreui-base.svg"
+                            },
+                            "Patterns": null
+                          },
+                          "coreui-signet-white.svg": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/assets/img/brand/coreui-signet-white.svg"
+                            },
+                            "Patterns": null
+                          },
+                          "coreui-signet.svg": {
+                            "Children": null,
+                            "Asset": {
+                              "ContentRootIndex": 0,
+                              "SubPath": "SkillSwapp/src/assets/img/brand/coreui-signet.svg"
+                            },
+                            "Patterns": null
+                          }
+                        },
+                        "Asset": null,
+                        "Patterns": null
+                      }
+                    },
+                    "Asset": null,
+                    "Patterns": null
+                  }
+                },
+                "Asset": null,
+                "Patterns": null
+              },
+              "components": {
+                "Children": {
+                  "docs-callout": {
+                    "Children": {
+                      "docs-callout.component.html": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "SkillSwapp/src/components/docs-callout/docs-callout.component.html"
+                        },
+                        "Patterns": null
+                      },
+                      "docs-callout.component.scss": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "SkillSwapp/src/components/docs-callout/docs-callout.component.scss"
+                        },
+                        "Patterns": null
+                      },
+                      "docs-callout.component.spec.ts": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "SkillSwapp/src/components/docs-callout/docs-callout.component.spec.ts"
+                        },
+                        "Patterns": null
+                      },
+                      "docs-callout.component.ts": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "SkillSwapp/src/components/docs-callout/docs-callout.component.ts"
+                        },
+                        "Patterns": null
+                      }
+                    },
+                    "Asset": null,
+                    "Patterns": null
+                  },
+                  "docs-components.module.ts": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "SkillSwapp/src/components/docs-components.module.ts"
+                    },
+                    "Patterns": null
+                  },
+                  "docs-example": {
+                    "Children": {
+                      "docs-example.component.html": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "SkillSwapp/src/components/docs-example/docs-example.component.html"
+                        },
+                        "Patterns": null
+                      },
+                      "docs-example.component.scss": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "SkillSwapp/src/components/docs-example/docs-example.component.scss"
+                        },
+                        "Patterns": null
+                      },
+                      "docs-example.component.spec.ts": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "SkillSwapp/src/components/docs-example/docs-example.component.spec.ts"
+                        },
+                        "Patterns": null
+                      },
+                      "docs-example.component.ts": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "SkillSwapp/src/components/docs-example/docs-example.component.ts"
+                        },
+                        "Patterns": null
+                      }
+                    },
+                    "Asset": null,
+                    "Patterns": null
+                  },
+                  "docs-link": {
+                    "Children": {
+                      "docs-link.component.html": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "SkillSwapp/src/components/docs-link/docs-link.component.html"
+                        },
+                        "Patterns": null
+                      },
+                      "docs-link.component.scss": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "SkillSwapp/src/components/docs-link/docs-link.component.scss"
+                        },
+                        "Patterns": null
+                      },
+                      "docs-link.component.spec.ts": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "SkillSwapp/src/components/docs-link/docs-link.component.spec.ts"
+                        },
+                        "Patterns": null
+                      },
+                      "docs-link.component.ts": {
+                        "Children": null,
+                        "Asset": {
+                          "ContentRootIndex": 0,
+                          "SubPath": "SkillSwapp/src/components/docs-link/docs-link.component.ts"
+                        },
+                        "Patterns": null
+                      }
+                    },
+                    "Asset": null,
+                    "Patterns": null
+                  },
+                  "index.ts": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "SkillSwapp/src/components/index.ts"
+                    },
+                    "Patterns": null
+                  },
+                  "public-api.ts": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "SkillSwapp/src/components/public-api.ts"
+                    },
+                    "Patterns": null
+                  }
+                },
+                "Asset": null,
+                "Patterns": null
+              },
+              "declarations.d.ts": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "SkillSwapp/src/declarations.d.ts"
+                },
+                "Patterns": null
+              },
+              "index.html": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "SkillSwapp/src/index.html"
+                },
+                "Patterns": null
+              },
+              "main.ts": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "SkillSwapp/src/main.ts"
+                },
+                "Patterns": null
+              },
+              "scss": {
+                "Children": {
+                  "styles.scss": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "SkillSwapp/src/scss/styles.scss"
+                    },
+                    "Patterns": null
+                  },
+                  "_charts.scss": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "SkillSwapp/src/scss/_charts.scss"
+                    },
+                    "Patterns": null
+                  },
+                  "_custom.scss": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "SkillSwapp/src/scss/_custom.scss"
+                    },
+                    "Patterns": null
+                  },
+                  "_examples.scss": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "SkillSwapp/src/scss/_examples.scss"
+                    },
+                    "Patterns": null
+                  },
+                  "_fixes.scss": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "SkillSwapp/src/scss/_fixes.scss"
+                    },
+                    "Patterns": null
+                  },
+                  "_layout.scss": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "SkillSwapp/src/scss/_layout.scss"
+                    },
+                    "Patterns": null
+                  },
+                  "_scrollbar.scss": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "SkillSwapp/src/scss/_scrollbar.scss"
+                    },
+                    "Patterns": null
+                  },
+                  "_variables.scss": {
+                    "Children": null,
+                    "Asset": {
+                      "ContentRootIndex": 0,
+                      "SubPath": "SkillSwapp/src/scss/_variables.scss"
+                    },
+                    "Patterns": null
+                  }
+                },
+                "Asset": null,
+                "Patterns": null
+              },
+              "test.ts": {
+                "Children": null,
+                "Asset": {
+                  "ContentRootIndex": 0,
+                  "SubPath": "SkillSwapp/src/test.ts"
+                },
+                "Patterns": null
+              }
+            },
+            "Asset": null,
+            "Patterns": null
+          },
+          "tsconfig.app.json": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "SkillSwapp/tsconfig.app.json"
+            },
+            "Patterns": null
+          },
+          "tsconfig.json": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "SkillSwapp/tsconfig.json"
+            },
+            "Patterns": null
+          },
+          "tsconfig.spec.json": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "SkillSwapp/tsconfig.spec.json"
+            },
+            "Patterns": null
+          }
+        },
+        "Asset": null,
+        "Patterns": null
+      }
+    },
+    "Asset": null,
+    "Patterns": [
+      {
+        "ContentRootIndex": 0,
+        "Pattern": "**",
+        "Depth": 0
+      }
+    ]
+  }
+}

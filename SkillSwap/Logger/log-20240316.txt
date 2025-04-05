@@ -1,0 +1,56 @@
+2024-03-16 10:58:01.740 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-16 10:58:01.914 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-16 10:58:01.918 +05:30 [INF] Hosting environment: Development
+2024-03-16 10:58:01.952 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-16 10:58:01.977 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-16 10:58:02.463 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 488.4881ms
+2024-03-16 10:58:02.490 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-16 10:58:02.490 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-16 10:58:02.504 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 11.9083ms
+2024-03-16 10:58:02.547 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 57.2332ms
+2024-03-16 10:58:02.682 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-16 10:58:02.977 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 294.8362ms
+2024-03-16 13:27:58.677 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-16 13:27:58.840 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-16 13:27:58.843 +05:30 [INF] Hosting environment: Development
+2024-03-16 13:27:58.845 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-16 13:27:58.865 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-16 13:27:59.232 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 370.5271ms
+2024-03-16 13:27:59.253 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-16 13:27:59.253 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-16 13:27:59.278 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 15.2734ms
+2024-03-16 13:27:59.291 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 37.8936ms
+2024-03-16 13:27:59.515 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-16 13:27:59.709 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 194.4528ms
+2024-03-16 13:57:57.392 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-16 13:57:57.594 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-16 13:57:57.597 +05:30 [INF] Hosting environment: Development
+2024-03-16 13:57:57.599 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-16 13:57:57.626 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-16 13:57:58.137 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 515.0585ms
+2024-03-16 13:57:58.142 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-16 13:57:58.157 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-16 13:57:58.183 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 25.9724ms
+2024-03-16 13:57:58.198 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 40.6605ms
+2024-03-16 13:57:58.313 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-16 13:57:58.512 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 199.3539ms
+2024-03-16 15:40:14.261 +05:30 [INF] User profile is available. Using 'C:\Users\Tarun\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-03-16 15:40:14.483 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-16 15:40:14.486 +05:30 [INF] Hosting environment: Development
+2024-03-16 15:40:14.488 +05:30 [INF] Content root path: G:\SkillSwap\SkillSwap\
+2024-03-16 15:40:14.509 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-16 15:40:14.999 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-16 15:40:15.001 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 494.5944ms
+2024-03-16 15:40:15.002 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-16 15:40:15.031 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 20.4696ms
+2024-03-16 15:40:15.053 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 51.0636ms
+2024-03-16 15:40:15.129 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-16 15:40:15.289 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 159.9946ms
+2024-03-16 15:40:40.278 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/index.html - -
+2024-03-16 15:40:40.301 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/index.html - - - 200 - text/html;charset=utf-8 24.3242ms
+2024-03-16 15:40:40.306 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_vs/browserLink - -
+2024-03-16 15:40:40.307 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - -
+2024-03-16 15:40:40.313 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_framework/aspnetcore-browser-refresh.js - - - 200 12350 application/javascript;+charset=utf-8 5.7959ms
+2024-03-16 15:40:40.347 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 41.0084ms
+2024-03-16 15:40:40.388 +05:30 [INF] Request starting HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - -
+2024-03-16 15:40:40.405 +05:30 [INF] Request finished HTTP/2 GET https://localhost:44313/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 17.7041ms
